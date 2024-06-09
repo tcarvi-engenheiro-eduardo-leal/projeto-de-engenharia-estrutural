@@ -1,2 +1,2 @@
-# conceitos-basicos
-Conceitos básicos para entender e trabalhar com a engenharia civil
+# conceitos-basicos-de-engenharia-estrutural
+Conceitos básicos para entender e trabalhar com engenharia estrutural.
