@@ -1,0 +1,28 @@
+# Tensão
+- **Símbolo**: 𝜎
+- **Unidade**: Pascal = N/m^2
+- **Fórmula**:
+    - Força sobre área: 
+    - 𝜎 = F / A  
+- **English translation**: stress
+- **Tensão normal**
+    - Tensão = ( força axial ) / ( área da seção ortogonal à força axial )
+- **Tensão de cisalhamento**
+    - Tensão = ( força de cisalhamento ) / ( área do corte longitudinal à força não axial )
+- **Tensão de tração**:
+    - Tensão normal que puxa, tracionando, o eixo do elemento que recebe a força.
+     - Este estado de tensão pode ser resultado de uma combinação de cargas. 
+- **Tensão de compressão**:
+    - Tensão normal que empurra, comprimindo, o eixo do elemento que recebe a força.
+    - Este estado de tensão pode ser resultado de uma combinação de cargas. 
+- **Tensão de torção**:
+    - Tensão que gera rotacão do corpo em torno de seu eixo longitudinal.
+    - Ocorre com duas forças paralelas e de sentido oposto, localizadas nos dois extremos que sofrem a forca tangencial de rotação. A área mais interna do corpo, e todo o restante, sofre tensão de torção.
+    - Este estado de tensão pode ser resultado de uma combinação de cargas. 
+- **Tensão de flexão**:
+    - Tensão normal que gera flexão do eixo
+    - Este estado de tensão pode ser resultado de uma combinação de cargas. 
+- **Transformação de estados multiaxiais de tensão**:
+    - Transformação por deformação
+        - Teorias de falha
+    - Efeitos internos em um corpo maciço, devido a tensão.
