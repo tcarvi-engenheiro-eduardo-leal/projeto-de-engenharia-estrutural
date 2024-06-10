@@ -2,9 +2,9 @@
 - Símbolo:
   - 𝜈
   - ν
-- Também conhecido como razão de Poisson
-- O coeficiente de Poisson é uma medida importante na engenharia estrutural que descreve a relação entre as deformações laterais e longitudinais em um material quando submetido a uma carga externa. É denominado em homenagem ao físico francês Siméon Poisson.
-- Quando um material é esticado ou comprimido na direção longitudinal, ele tende a contrair ou expandir na direção transversal. O coeficiente de Poisson quantifica essa resposta transversal:
+- Também conhecido como **razão de Poisson**
+- O coeficiente de Poisson é uma medida importante na engenharia estrutural que descreve a **relação entre as deformações laterais e longitudinais em um material quando submetido a uma carga externa**. É denominado em homenagem ao físico francês Siméon Poisson.
+- Quando um material é esticado na direção longitudinal, ele tende a contrair na direção transversal. Quando um material é comprimido na direção longitudinal, ele tende a expandir na direção transversal. O coeficiente de Poisson quantifica essa resposta transversal.
 - Fórumula:
   - 𝜈 = − (𝜖 transversal) /  (𝜖 longitudinal)
 - Em termos simples, o coeficiente de Poisson (geralmente denotado por ν) é definido como a razão entre a deformação lateral (ou transversal) e a deformação longitudinal de um material quando submetido a uma carga axial. Em uma aplicação estrutural, quando uma carga é aplicada a um material, ele se deforma em várias direções. O coeficiente de Poisson nos dá uma ideia de como o material se deforma nessas direções.
