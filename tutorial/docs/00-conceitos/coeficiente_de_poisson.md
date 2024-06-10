@@ -11,7 +11,19 @@
 - Um material com um coeficiente de Poisson positivo indica que, quando ele é esticado longitudinalmente, ele se contrai lateralmente, enquanto um material com coeficiente de Poisson negativo (teoricamente possível, mas raro na prática) indicaria que se expande lateralmente quando esticado longitudinalmente.
 - Na engenharia estrutural, entender o coeficiente de Poisson é fundamental para prever o comportamento de materiais sob carga e projetar estruturas que possam suportar as deformações esperadas sem falhar. 
 - Ele é usado em uma variedade de aplicações, desde o projeto de pontes e edifícios até componentes em nível microscópico, como na fabricação de chips de computador.
-​
+​- O sinal negativo da fórmula indica que, para a maioria dos materiais, uma tensão de tração causa uma contração transversal, enquanto uma tensão de compressão causa uma expansão transversal. Usa-se o sinal negativo para ter sinal oposto a este significado.
+- Valores Típicos:
+  - Aço: Aproximadamente 0,28 a 0,30.
+  - Concreto: Aproximadamente 0,15 a 0,20.
+  - Borracha: Aproximadamente 0,45 a 0,50.
+  - Alumínio: Aproximadamente 0,33.
+- Os valores típicos do coeficiente de Poisson para diversos materiais variam entre 0 e 0,5:
+  - Materiais incompressíveis: Para materiais como a borracha, que praticamente não mudam de volume sob compressão, ν aproxima-se de 0,5.
+  - Materiais isotrópicos e elásticos: Para muitos metais e ligas, o coeficiente de Poisson está geralmente na faixa de 0,25 a 0,35.
+- Importância em Engenharia Estrutural
+  - Análise de Deformações: O coeficiente de Poisson é essencial para entender como os materiais se deformam sob cargas. 
+  - Ele permite prever as deformações laterais, ajudando a avaliar a integridade estrutural e o desempenho de elementos de engenharia.
+
 ##  Exemplo de Cálculo:
 - Suponha que temos um material de prova em forma de barra com uma seção transversal quadrada. Vamos aplicar uma força de tração na direção longitudinal da barra. Como resultado dessa força, a barra se esticará na direção longitudinal e se contrairá na direção transversal. Queremos calcular o coeficiente de Poisson desse material.
 - Vamos denotar as seguintes grandezas:
@@ -33,15 +45,3 @@
   - ν = 0,2 (medida adimensional)
 - Neste caso hipotético, o coeficiente de Poisson do material é ν = 0.2
 - Isso indica que o material se contrai lateralmente em 0,2 vezes a quantidade que se estica longitudinalmente quando submetido a uma carga axial.
- - O sinal negativo da fórmula indica que, para a maioria dos materiais, uma tensão de tração causa uma contração transversal, enquanto uma tensão de compressão causa uma expansão transversal. Usa-se o sinal negativo para ter sinal oposto a este significado.
-- Valores Típicos:
-  - Aço: Aproximadamente 0,28 a 0,30.
-  - Concreto: Aproximadamente 0,15 a 0,20.
-  - Borracha: Aproximadamente 0,45 a 0,50.
-  - Alumínio: Aproximadamente 0,33.
-- Os valores típicos do coeficiente de Poisson para diversos materiais variam entre 0 e 0,5:
-  - Materiais incompressíveis: Para materiais como a borracha, que praticamente não mudam de volume sob compressão, ν aproxima-se de 0,5.
-  - Materiais isotrópicos e elásticos: Para muitos metais e ligas, o coeficiente de Poisson está geralmente na faixa de 0,25 a 0,35.
-- Importância em Engenharia Estrutural
-  - Análise de Deformações: O coeficiente de Poisson é essencial para entender como os materiais se deformam sob cargas. 
-  - Ele permite prever as deformações laterais, ajudando a avaliar a integridade estrutural e o desempenho de elementos de engenharia.
