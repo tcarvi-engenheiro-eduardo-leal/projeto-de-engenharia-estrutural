@@ -5,20 +5,22 @@
 - Também conhecido como **razão de Poisson**
 - O coeficiente de Poisson é uma medida importante na engenharia estrutural que descreve a **relação entre as deformações laterais e longitudinais em um material quando submetido a uma carga externa**. É denominado em homenagem ao físico francês Siméon Poisson.
 - Quando um material é esticado na direção longitudinal, ele tende a contrair na direção transversal. Quando um material é comprimido na direção longitudinal, ele tende a expandir na direção transversal. O coeficiente de Poisson quantifica essa resposta transversal.
-- Fórumula:
+- Fórmula:
   - 𝜈 = − (𝜖 transversal) /  (𝜖 longitudinal)
-- Em termos simples, o coeficiente de Poisson (geralmente denotado por ν) é definido como a razão entre a deformação lateral (ou transversal) e a deformação longitudinal de um material quando submetido a uma carga axial. Em uma aplicação estrutural, quando uma carga é aplicada a um material, ele se deforma em várias direções. O coeficiente de Poisson nos dá uma ideia de como o material se deforma nessas direções.
-- Um material com um coeficiente de Poisson positivo indica que quando ele é esticado longitudinalmente, ele se contrai lateralmente, enquanto um material com coeficiente de Poisson negativo (teoricamente possível, mas raro na prática) indicaria que se expande lateralmente quando esticado longitudinalmente.
+- O coeficiente de Poisson (geralmente denotado por ν) é definido como a razão entre a deformação lateral (ou transversal) e a deformação longitudinal de um material quando submetido a uma carga axial. Em uma aplicação estrutural, quando uma carga é aplicada a um material, ele se deforma em várias direções. O coeficiente de Poisson nos dá uma ideia de como o material se deforma nessas direções.
+- Um material com um coeficiente de Poisson positivo indica que, quando ele é esticado longitudinalmente, ele se contrai lateralmente, enquanto um material com coeficiente de Poisson negativo (teoricamente possível, mas raro na prática) indicaria que se expande lateralmente quando esticado longitudinalmente.
 - Na engenharia estrutural, entender o coeficiente de Poisson é fundamental para prever o comportamento de materiais sob carga e projetar estruturas que possam suportar as deformações esperadas sem falhar. 
 - Ele é usado em uma variedade de aplicações, desde o projeto de pontes e edifícios até componentes em nível microscópico, como na fabricação de chips de computador.
 ​
 ##  Exemplo de Cálculo:
 - Suponha que temos um material de prova em forma de barra com uma seção transversal quadrada. Vamos aplicar uma força de tração na direção longitudinal da barra. Como resultado dessa força, a barra se esticará na direção longitudinal e se contrairá na direção transversal. Queremos calcular o coeficiente de Poisson desse material.
 - Vamos denotar as seguintes grandezas:
-  - ΔW ou 𝜖 transversal: a mudança na largura da barra na direção transversal.
-  - ΔL ou 𝜖 longitudinal: a mudança no comprimento da barra na direção longitudinal.
+  - ΔW: a mudança na largura da barra na direção transversal.
+  - ΔL: a mudança no comprimento da barra na direção longitudinal.
   - L: comprimento original da barra.
   - W: largura original da barra.
+  - ΔW/W = 𝜖 transversal: deformação transversal adimensional
+  - ΔL/L = 𝜖 longitudinal: deformação longitudinal adimensional
 - O coeficiente de Poisson (ν) pode ser calculado pela fórmula:
   - ν = − (ΔW/W) / (ΔL/L)
   - ν = − (𝜖 transversal) / (𝜖 longitudinal)
