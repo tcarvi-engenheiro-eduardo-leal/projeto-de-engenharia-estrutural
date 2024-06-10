@@ -1,5 +1,6 @@
 # Módulo de Elasticidade
 - Símbolo: ***E***
+- Unidade: **Pascal**, pois a deformação é adimensional.
 - Também conhecido como **Módulo de Young** ou **Módulo de Elasticidade Longitudinal**.
 - Este parâmetro é uma **medida da rigidez ou da elasticidade de um material**.
 - É uma medida da **relação entre a tensão (força aplicada por unidade de área) e a deformação (mudança na forma ou tamanho) de um material elástico linear dentro do limite de elasticidade**.
@@ -21,7 +22,11 @@
 - Aplicação na Engenharia Civil:
     - Em engenharia civil, o módulo de elasticidade é crucial no projeto e análise de estruturas como edifícios, pontes, estradas e outras construções.
     - Ele é usado para prever como os materiais e as estruturas se comportarão sob cargas diversas, garantindo segurança e desempenho adequado.
-## Análise do Gráfico
+
+## Análise do Gráfico tensão-deformação
+- Tensão (**𝜎**) no eixo Y.
+- Deformação (**𝜖**) no eixo X.
+- Tangente do ângulo chamada de Módulo de Elasticidade ( ***E*** ).
 - Quanto maior a tangente do ângulo, menor a deformação para uma mesma tensão.
 - Quanto menor a tangente do ângulo, maior a deformação para uma mesma tensão.
 - Quanto maior o módulo de elasticidade, menor a deformação para uma mesma tensão.
