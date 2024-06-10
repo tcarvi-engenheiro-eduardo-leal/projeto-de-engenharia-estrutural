@@ -1,19 +1,23 @@
 # Módulo de Elasticidade
 - Símbolo: ***E***
-- O módulo de elasticidade é um parâmetro fundamental na engenharia civil e em outras áreas da engenharia e física.
-- Este parâmetro é uma medida da rigidez de um material.
-- Este parâmetro quantifica a relação entre tensão e deformação em um material elástico.
-- O módulo de elasticidade é definido pela relação linear entre a tensão 𝜎 (eixo Y) e a deformação 𝜖 (eixo X) de um material que está sujeito a um esforço. 
+- Também conhecido como **Módulo de Young** ou **Módulo de Elasticidade Longitudinal**.
+- Este parâmetro é uma **medida da rigidez ou da elasticidade de um material**.
+- É uma medida da **relação entre a tensão (força aplicada por unidade de área) e a deformação (mudança na forma ou tamanho) de um material elástico linear dentro do limite de elasticidade**.
+- O módulo de elasticidade é definido pela **relação linear entre a tensão 𝜎 e a deformação 𝜖 de um material que está sujeito a um esforço**. 
 - Matematicamente, isso é expresso pela fórmula:  
-tg(angulo linear do gráfico) = 𝜎 / 𝜖  
-***E*** = 𝜎 / 𝜖  
+    - **tg(angulo linear do gráfico de tensão-deformação) = 𝜎 / 𝜖**  
+    - ***E*** = **𝜎 / 𝜖**
+    - Onde:
+        - ***E*** é o módulo de elasticidade (em Pascals ou unidades de pressão equivalentes).
+        - **σ** é a tensão aplicada (em Pascals).
+        - **ϵ** é a deformação resultante (adimensional).
 
 ## Importância
 - Rigidez do Material:
     - O módulo de elasticidade indica o quanto um material se deforma sob uma determinada carga.
     - Materiais com um módulo de elasticidade alto (como o aço) deformam-se menos sob carga em comparação com materiais com um módulo de elasticidade baixo (como a borracha).
 - Comportamento Elástico:
-    - O conceito assume que o material se comporta elasticamente, ou seja, ele retorna à sua forma original após a remoção da carga, desde que a tensão não exceda o limite de elasticidade do material.
+    - O conceito assume que o material se comporta elasticamente, ou seja, ele retorna à sua forma original após a remoção da carga, desde que a tensão não tenha excedido o limite da tensão elastica do material.
 - Aplicação na Engenharia Civil:
     - Em engenharia civil, o módulo de elasticidade é crucial no projeto e análise de estruturas como edifícios, pontes, estradas e outras construções.
     - Ele é usado para prever como os materiais e as estruturas se comportarão sob cargas diversas, garantindo segurança e desempenho adequado.
