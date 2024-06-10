@@ -1,0 +1,25 @@
+{
+  "id": "pesquisa-automacao/sensores-de-qualidade-e-execucao",
+  "title": "Sensores de Execução e de Qualidade",
+  "description": "- Sensore para topografia",
+  "source": "@site/docs/99-pesquisa-automacao/01-sensores-de-qualidade-e-execucao.md",
+  "sourceDirName": "99-pesquisa-automacao",
+  "slug": "/pesquisa-automacao/sensores-de-qualidade-e-execucao",
+  "permalink": "/docs/pesquisa-automacao/sensores-de-qualidade-e-execucao",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/99-pesquisa-automacao/01-sensores-de-qualidade-e-execucao.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  },
+  "next": {
+    "title": "Industria 4.0 para controle de qualidade da fundação e das estruturas",
+    "permalink": "/docs/pesquisa-automacao/industria-4-0"
+  }
+}

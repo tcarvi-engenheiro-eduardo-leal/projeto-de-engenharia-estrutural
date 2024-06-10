@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "intro",
+  "description": "",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Conceitos em Engenharia de Estruturas",
+    "permalink": "/docs/category/conceitos-em-engenharia-de-estruturas"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conceitos/coeficiente_de_poisson",
+  "title": "Coeficiente de Poisson",
+  "description": "- Símbolo:",
+  "source": "@site/docs/00-conceitos/coeficiente_de_poisson.md",
+  "sourceDirName": "00-conceitos",
+  "slug": "/conceitos/coeficiente_de_poisson",
+  "permalink": "/docs/conceitos/coeficiente_de_poisson",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/00-conceitos/coeficiente_de_poisson.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conceitos em Engenharia de Estruturas",
+    "permalink": "/docs/category/conceitos-em-engenharia-de-estruturas"
+  },
+  "next": {
+    "title": "elementos_estruturais",
+    "permalink": "/docs/conceitos/elementos_estruturais"
+  }
+}

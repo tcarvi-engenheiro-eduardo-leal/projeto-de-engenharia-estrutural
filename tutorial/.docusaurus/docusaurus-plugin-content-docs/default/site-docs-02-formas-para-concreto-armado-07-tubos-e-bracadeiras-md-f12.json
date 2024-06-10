@@ -1,0 +1,25 @@
+{
+  "id": "formas-para-concreto-armado/tubos-e-bracadeiras",
+  "title": "Fôrmas para Concreto Armado",
+  "description": "Sistema de Fôrmas",
+  "source": "@site/docs/02-formas-para-concreto-armado/07-tubos-e-bracadeiras.md",
+  "sourceDirName": "02-formas-para-concreto-armado",
+  "slug": "/formas-para-concreto-armado/tubos-e-bracadeiras",
+  "permalink": "/docs/formas-para-concreto-armado/tubos-e-bracadeiras",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-formas-para-concreto-armado/07-tubos-e-bracadeiras.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fôrmas para Concreto Armado",
+    "permalink": "/docs/formas-para-concreto-armado/solucoes-por-elemento-estrutural"
+  },
+  "next": {
+    "title": "Verificação da Estabilidade Global",
+    "permalink": "/docs/category/verificação-da-estabilidade-global"
+  }
+}

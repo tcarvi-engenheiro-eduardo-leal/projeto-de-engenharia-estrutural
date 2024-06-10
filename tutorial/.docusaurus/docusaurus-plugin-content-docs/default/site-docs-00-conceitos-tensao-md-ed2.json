@@ -1,0 +1,24 @@
+{
+  "id": "conceitos/tensao",
+  "title": "Tensão",
+  "description": "- Símbolo: 𝜎",
+  "source": "@site/docs/00-conceitos/tensao.md",
+  "sourceDirName": "00-conceitos",
+  "slug": "/conceitos/tensao",
+  "permalink": "/docs/conceitos/tensao",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/00-conceitos/tensao.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Módulo de Elasticidade",
+    "permalink": "/docs/conceitos/modulo_de_elasticidade"
+  },
+  "next": {
+    "title": "Controle Tecnológico",
+    "permalink": "/docs/category/controle-tecnológico"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "conceitos/coeficiente_de_poisson",
+              "path": "/docs/conceitos/coeficiente_de_poisson",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conceitos/elementos_estruturais",
+              "path": "/docs/conceitos/elementos_estruturais",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conceitos/modulo_de_elasticidade",
+              "path": "/docs/conceitos/modulo_de_elasticidade",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conceitos/tensao",
+              "path": "/docs/conceitos/tensao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "controle-tecnologico/controle-tecnologico-insumos-concreto",
+              "path": "/docs/controle-tecnologico/controle-tecnologico-insumos-concreto",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formas-para-concreto-armado/norma-15696",
+              "path": "/docs/formas-para-concreto-armado/norma-15696",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formas-para-concreto-armado/presssao-de-concretagem",
+              "path": "/docs/formas-para-concreto-armado/presssao-de-concretagem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formas-para-concreto-armado/reescoramento",
+              "path": "/docs/formas-para-concreto-armado/reescoramento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formas-para-concreto-armado/sistemas-de-escoramento",
+              "path": "/docs/formas-para-concreto-armado/sistemas-de-escoramento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formas-para-concreto-armado/sistemas-de-formas",
+              "path": "/docs/formas-para-concreto-armado/sistemas-de-formas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formas-para-concreto-armado/solucoes-por-elemento-estrutural",
+              "path": "/docs/formas-para-concreto-armado/solucoes-por-elemento-estrutural",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formas-para-concreto-armado/termos-e-definicoes",
+              "path": "/docs/formas-para-concreto-armado/termos-e-definicoes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "formas-para-concreto-armado/tubos-e-bracadeiras",
+              "path": "/docs/formas-para-concreto-armado/tubos-e-bracadeiras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pesquisa-automacao/industria-4-0",
+              "path": "/docs/pesquisa-automacao/industria-4-0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pesquisa-automacao/inteligência-artificial-embarcada",
+              "path": "/docs/pesquisa-automacao/inteligência-artificial-embarcada",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pesquisa-automacao/robotica",
+              "path": "/docs/pesquisa-automacao/robotica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pesquisa-automacao/sensores-de-qualidade-e-execucao",
+              "path": "/docs/pesquisa-automacao/sensores-de-qualidade-e-execucao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "verificacao-estabilidade-global/parametros-de-estabilidade-global",
+              "path": "/docs/verificacao-estabilidade-global/parametros-de-estabilidade-global",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/conceitos-em-engenharia-de-estruturas",
+              "path": "/docs/category/conceitos-em-engenharia-de-estruturas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/controle-tecnológico",
+              "path": "/docs/category/controle-tecnológico",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/fôrmas-e-escoramento",
+              "path": "/docs/category/fôrmas-e-escoramento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/verificação-da-estabilidade-global",
+              "path": "/docs/category/verificação-da-estabilidade-global",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

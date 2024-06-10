@@ -1,0 +1,27 @@
+{
+  "id": "controle-tecnologico/controle-tecnologico-insumos-concreto",
+  "title": "Controle tecnólogico dos insumos do concreto",
+  "description": "Controle de qualidade dos materiais e dos insumos",
+  "source": "@site/docs/01-controle-tecnologico/controle-tecnologico-insumos-concreto.md",
+  "sourceDirName": "01-controle-tecnologico",
+  "slug": "/controle-tecnologico/controle-tecnologico-insumos-concreto",
+  "permalink": "/docs/controle-tecnologico/controle-tecnologico-insumos-concreto",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-controle-tecnologico/controle-tecnologico-insumos-concreto.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Controle Tecnológico",
+    "permalink": "/docs/category/controle-tecnológico"
+  },
+  "next": {
+    "title": "Fôrmas e Escoramento",
+    "permalink": "/docs/category/fôrmas-e-escoramento"
+  }
+}

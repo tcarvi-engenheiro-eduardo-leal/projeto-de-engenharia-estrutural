@@ -1,0 +1,25 @@
+{
+  "id": "formas-para-concreto-armado/termos-e-definicoes",
+  "title": "Termos e Definições",
+  "description": "Sarrafo",
+  "source": "@site/docs/02-formas-para-concreto-armado/00-termos-e-definicoes.md",
+  "sourceDirName": "02-formas-para-concreto-armado",
+  "slug": "/formas-para-concreto-armado/termos-e-definicoes",
+  "permalink": "/docs/formas-para-concreto-armado/termos-e-definicoes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-formas-para-concreto-armado/00-termos-e-definicoes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fôrmas e Escoramento",
+    "permalink": "/docs/category/fôrmas-e-escoramento"
+  },
+  "next": {
+    "title": "Fôrmas para Concreto Armado",
+    "permalink": "/docs/formas-para-concreto-armado/sistemas-de-formas"
+  }
+}

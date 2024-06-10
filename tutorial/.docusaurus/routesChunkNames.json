@@ -1,0 +1,313 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/blog-b2f": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "__props": "__props---blogc-15-573"
+  },
+  "/blog/archive-182": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "__props": "__props---blog-archivef-81-229"
+  },
+  "/blog/first-blog-post-89a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-first-blog-postace-ee5"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
+  },
+  "/blog/long-blog-post-9ad": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-first-blog-postace-ee5"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
+  },
+  "/blog/mdx-blog-post-e9f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-first-blog-postace-ee5"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
+  },
+  "/blog/tags-287": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-tags-3-a-2-fa2"
+  },
+  "/blog/tags/docusaurus-704": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "__props": "__props---blog-tags-docusaurus-321-832"
+  },
+  "/blog/tags/facebook-858": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      }
+    ],
+    "__props": "__props---blog-tags-facebooke-5-a-514"
+  },
+  "/blog/tags/hello-299": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blog-871-381"
+      }
+    ],
+    "__props": "__props---blog-tags-hellof-82-2fd"
+  },
+  "/blog/tags/hola-00d": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "__props": "__props---blog-tags-hola-5-e-9-9a3"
+  },
+  "/blog/welcome-d2b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-first-blog-postace-ee5"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-abd": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-cb2": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-379": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/conceitos-em-engenharia-de-estruturas-a03": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-conceitos-em-engenharia-de-estruturasf-6-d-8d4"
+  },
+  "/docs/category/controle-tecnológico-203": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-controle-tecnologico-652-ef1"
+  },
+  "/docs/category/fôrmas-e-escoramento-73e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-formas-e-escoramento-54-a-8eb"
+  },
+  "/docs/category/tutorial---extras-9ad": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-tutorial-extras-6-bb-a82"
+  },
+  "/docs/category/verificação-da-estabilidade-global-563": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-verificacao-da-estabilidade-global-503-4b8"
+  },
+  "/docs/conceitos/coeficiente_de_poisson-337": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-coeficiente-de-poissonfc-6-c69"
+  },
+  "/docs/conceitos/elementos_estruturais-c48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-elementos-estruturais-62-c-83e"
+  },
+  "/docs/conceitos/modulo_de_elasticidade-563": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-modulo-de-elasticidadeb-61-1e4"
+  },
+  "/docs/conceitos/tensao-182": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-tensaoed-2-643"
+  },
+  "/docs/controle-tecnologico/controle-tecnologico-insumos-concreto-c49": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-controle-tecnologico-controle-tecnologico-insumos-concreto-3-eb-f4c"
+  },
+  "/docs/formas-para-concreto-armado/norma-15696-b55": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-norma-15696-e-26-ce1"
+  },
+  "/docs/formas-para-concreto-armado/presssao-de-concretagem-602": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-presssao-de-concretagem-574-c2e"
+  },
+  "/docs/formas-para-concreto-armado/reescoramento-421": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-reescoramentofa-8-1b0"
+  },
+  "/docs/formas-para-concreto-armado/sistemas-de-escoramento-cf5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-sistemas-de-escoramento-812-920"
+  },
+  "/docs/formas-para-concreto-armado/sistemas-de-formas-bbe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-sistemas-de-formasba-5-a03"
+  },
+  "/docs/formas-para-concreto-armado/solucoes-por-elemento-estrutural-724": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-solucoes-por-elemento-estruturala-58-28b"
+  },
+  "/docs/formas-para-concreto-armado/termos-e-definicoes-3c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-termos-e-definicoesdbc-341"
+  },
+  "/docs/formas-para-concreto-armado/tubos-e-bracadeiras-6ad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-tubos-e-bracadeirasf-12-45a"
+  },
+  "/docs/intro-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/pesquisa-automacao/industria-4-0-361": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-pesquisa-automacao-industria-4-0-edc-a42"
+  },
+  "/docs/pesquisa-automacao/inteligência-artificial-embarcada-3bb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-pesquisa-automacao-inteligencia-artificial-embarcadad-5-b-5c7"
+  },
+  "/docs/pesquisa-automacao/robotica-4ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-pesquisa-automacao-robotica-2-c-0-ce5"
+  },
+  "/docs/pesquisa-automacao/sensores-de-qualidade-e-execucao-3e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-pesquisa-automacao-sensores-de-qualidade-e-execucao-4-e-4-ad4"
+  },
+  "/docs/verificacao-estabilidade-global/parametros-de-estabilidade-global-e7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-verificacao-estabilidade-global-parametros-de-estabilidade-global-9-eb-ae1"
+  },
+  "/-e5f": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

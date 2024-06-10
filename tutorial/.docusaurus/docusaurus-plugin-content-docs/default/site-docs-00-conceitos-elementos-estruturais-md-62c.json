@@ -1,0 +1,24 @@
+{
+  "id": "conceitos/elementos_estruturais",
+  "title": "elementos_estruturais",
+  "description": "Elements (estruturais e não-estruturais)",
+  "source": "@site/docs/00-conceitos/elementos_estruturais.md",
+  "sourceDirName": "00-conceitos",
+  "slug": "/conceitos/elementos_estruturais",
+  "permalink": "/docs/conceitos/elementos_estruturais",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/00-conceitos/elementos_estruturais.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Coeficiente de Poisson",
+    "permalink": "/docs/conceitos/coeficiente_de_poisson"
+  },
+  "next": {
+    "title": "Módulo de Elasticidade",
+    "permalink": "/docs/conceitos/modulo_de_elasticidade"
+  }
+}

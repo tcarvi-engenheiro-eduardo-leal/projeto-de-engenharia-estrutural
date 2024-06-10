@@ -1,0 +1,24 @@
+{
+  "id": "conceitos/modulo_de_elasticidade",
+  "title": "Módulo de Elasticidade",
+  "description": "- Símbolo: E",
+  "source": "@site/docs/00-conceitos/modulo_de_elasticidade.md",
+  "sourceDirName": "00-conceitos",
+  "slug": "/conceitos/modulo_de_elasticidade",
+  "permalink": "/docs/conceitos/modulo_de_elasticidade",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/00-conceitos/modulo_de_elasticidade.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elementos_estruturais",
+    "permalink": "/docs/conceitos/elementos_estruturais"
+  },
+  "next": {
+    "title": "Tensão",
+    "permalink": "/docs/conceitos/tensao"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "formas-para-concreto-armado/solucoes-por-elemento-estrutural",
+  "title": "Fôrmas para Concreto Armado",
+  "description": "Vídeo 1 até vídeo 2, 28 minutos.",
+  "source": "@site/docs/02-formas-para-concreto-armado/06-solucoes-por-elemento-estrutural.md",
+  "sourceDirName": "02-formas-para-concreto-armado",
+  "slug": "/formas-para-concreto-armado/solucoes-por-elemento-estrutural",
+  "permalink": "/docs/formas-para-concreto-armado/solucoes-por-elemento-estrutural",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-formas-para-concreto-armado/06-solucoes-por-elemento-estrutural.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fôrmas para Concreto Armado",
+    "permalink": "/docs/formas-para-concreto-armado/presssao-de-concretagem"
+  },
+  "next": {
+    "title": "Fôrmas para Concreto Armado",
+    "permalink": "/docs/formas-para-concreto-armado/tubos-e-bracadeiras"
+  }
+}
