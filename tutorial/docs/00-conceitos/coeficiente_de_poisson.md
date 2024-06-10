@@ -31,27 +31,17 @@
   - ν = − (−0.0002)/(0.001)
   - ν = − (- 0,2)
   - ν = 0,2 (medida adimensional)
-​- Neste caso hipotético, o coeficiente de Poisson do material é ν = 0.2
+- Neste caso hipotético, o coeficiente de Poisson do material é ν = 0.2
 - Isso indica que o material se contrai lateralmente em 0,2 vezes a quantidade que se estica longitudinalmente quando submetido a uma carga axial.
- - O sinal negativo indica que, para a maioria dos materiais, uma tensão de tração causa uma contração transversal, enquanto uma tensão de compressão causa uma expansão transversal.
-- Valores Típicos
+ - O sinal negativo da fórmula indica que, para a maioria dos materiais, uma tensão de tração causa uma contração transversal, enquanto uma tensão de compressão causa uma expansão transversal. Usa-se o sinal negativo para ter sinal oposto a este significado.
+- Valores Típicos:
   - Aço: Aproximadamente 0,28 a 0,30.
   - Concreto: Aproximadamente 0,15 a 0,20.
   - Borracha: Aproximadamente 0,45 a 0,50.
   - Alumínio: Aproximadamente 0,33.
-  - Os valores típicos do coeficiente de Poisson para diversos materiais variam entre 0 e 0,5:
-- Materiais incompressíveis: Para materiais como a borracha, que praticamente não mudam de volume sob compressão, ν aproxima-se de 0,5.
-- Materiais isotrópicos e elásticos: Para muitos metais e ligas, o coeficiente de Poisson está geralmente na faixa de 0,25 a 0,35.
+- Os valores típicos do coeficiente de Poisson para diversos materiais variam entre 0 e 0,5:
+  - Materiais incompressíveis: Para materiais como a borracha, que praticamente não mudam de volume sob compressão, ν aproxima-se de 0,5.
+  - Materiais isotrópicos e elásticos: Para muitos metais e ligas, o coeficiente de Poisson está geralmente na faixa de 0,25 a 0,35.
 - Importância em Engenharia Estrutural
   - Análise de Deformações: O coeficiente de Poisson é essencial para entender como os materiais se deformam sob cargas. 
   - Ele permite prever as deformações laterais, ajudando a avaliar a integridade estrutural e o desempenho de elementos de engenharia.
-
-## Uso no Cálculo de Tensões e Deformações: 
-- É usado Em combinação com o módulo de elasticidade ( 𝐸 )
-  - O coeficiente de Poisson ( ν ) é usado para calcular tensões e deformações em materiais isotrópicos usando a teoria da elasticidade.
-
-## Modelagem de Estruturas Complexas: 
-- É usado em análises numéricas e em métodos de elementos finitos para modelar o comportamento de estruturas sob cargas, especialmente para materiais anisotrópicos ou com comportamento não linear.
-
-## Planejamento e Projeto de Estruturas: 
-- É usado no projeto de estruturas que precisam acomodar deformações elásticas sem falha ou dano, especialmente em construções que exigem alta precisão, como pontes e edifícios altos.
