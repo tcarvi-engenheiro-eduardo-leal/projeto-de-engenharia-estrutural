@@ -246,5 +246,6 @@
             - Vento Frontal
             - Carga Vertical
 
-## Executar Ações de Carregamento e Gerar Relatórios
-Run Now
+## Executar Análise dos Carregamentos e Gerar Relatórios
+ - Detalhamento SAP2000:
+        - Menu Run Analysis
