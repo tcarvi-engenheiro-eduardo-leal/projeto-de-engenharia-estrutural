@@ -223,15 +223,28 @@
             - Options: Replace
             - Apply
 
-## Detalhar e Executar Ações de Carregamento
+## Detalhar Ações de Carregamento
  - Detalhamento SAP2000:
         - Menu Define - load Cases 
         - Delete de Ações a Não serem consideradas
             - Apgar DEAD e MOdal (análise dinâmica) se a licensa não permitir muitos Load Cases
-- Incluir novo
-    - VL_DELTA
-    - INdicar Non-Linear
-    - Geometric P-Delta
-    - Adicionar as duas cargas: Vento Lateral e CArga Vertical
-    Agora dar Play
-    Run Now
+    - Incluir novos Load Cases
+    - Load Case Data Para Vento Lateral
+        - Lad Case name: Vento Lateral - Incremento Delta
+        - Static
+        - Non-Linear
+        - Geometric P-Delta
+        - Adicionar as duas cargas relevantes: 
+            - Vento Lateral
+            - Carga Vertical
+    - Load Case Data para Vento Frontal
+        - Load Case name: Vento Frontal - Incremento Delta
+        - Static
+        - Non-Linear
+        - Geometric P-Delta
+        - Adicionar as duas cargas relevantes: 
+            - Vento Frontal
+            - Carga Vertical
+
+## Executar Ações de Carregamento e Gerar Relatórios
+Run Now
