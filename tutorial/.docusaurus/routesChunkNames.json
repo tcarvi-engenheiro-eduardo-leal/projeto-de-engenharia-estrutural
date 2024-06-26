@@ -194,17 +194,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-abd": {
+  "/docs-0d3": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-cb2": {
+  "/docs-22b": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-379": {
+  "/docs-350": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/conceitos-em-engenharia-de-estruturas-a03": {
@@ -219,6 +219,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-formas-e-escoramento-54-a-8eb"
   },
+  "/docs/category/momento-f2f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-momento-40-e-574"
+  },
   "/docs/category/tutorial---extras-9ad": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-tutorial-extras-6-bb-a82"
@@ -227,17 +231,37 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-verificacao-da-estabilidade-global-503-4b8"
   },
+  "/docs/centro-de-massa/centro_de_massa-05c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-centro-de-massa-centro-de-massa-869-eb0"
+  },
   "/docs/conceitos/coeficiente_de_poisson-337": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-conceitos-coeficiente-de-poissonfc-6-c69"
+  },
+  "/docs/conceitos/contraventamento-955": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-contraventamentof-2-d-b72"
+  },
+  "/docs/conceitos/efeitos-de-segunda-ordem-648": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-efeitos-de-segunda-ordem-486-baa"
   },
   "/docs/conceitos/elementos_estruturais-c48": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-conceitos-elementos-estruturais-62-c-83e"
   },
+  "/docs/conceitos/ensaio-tunel-de-vento-f6a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-ensaio-tunel-de-vento-7-df-307"
+  },
   "/docs/conceitos/modulo_de_elasticidade-563": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-conceitos-modulo-de-elasticidadeb-61-1e4"
+  },
+  "/docs/conceitos/momento-de-inercia-ac9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-momento-de-inercia-3-eb-942"
   },
   "/docs/conceitos/tensao-182": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -246,6 +270,42 @@
   "/docs/controle-tecnologico/controle-tecnologico-insumos-concreto-c49": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-controle-tecnologico-controle-tecnologico-insumos-concreto-3-eb-f4c"
+  },
+  "/docs/forca-cortante-e-movimento-fletor/cabos-825": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-cortante-e-movimento-fletor-caboscdd-579"
+  },
+  "/docs/forca-cortante-e-movimento-fletor/carga-ditribuida-forca-cortante-e-momento-fletor-cac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-cortante-e-movimento-fletor-carga-ditribuida-forca-cortante-e-momento-fletorce-3-3a2"
+  },
+  "/docs/forca-cortante-e-movimento-fletor/cargas-internas-em-membros-estruturais-b62": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-cortante-e-movimento-fletor-cargas-internas-em-membros-estruturais-38-c-b27"
+  },
+  "/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-forca-cortante-de6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-cortante-e-movimento-fletor-equacoes-e-diagramas-de-forca-cortante-3-e-6-c75"
+  },
+  "/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-momento-fletor-c5d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-cortante-e-movimento-fletor-equacoes-e-diagramas-de-momento-fletor-6-a-2-f29"
+  },
+  "/docs/forca-e-momento-de-uma-forca/diagframa-de-corpo-livre-993": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-e-momento-de-uma-forca-diagframa-de-corpo-livrefb-2-281"
+  },
+  "/docs/forca-e-momento-de-uma-forca/equilibrio-de-uma-particula-93d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-e-momento-de-uma-forca-equilibrio-de-uma-particula-862-ff3"
+  },
+  "/docs/forca-e-momento-de-uma-forca/forca-32c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-e-momento-de-uma-forca-forca-4-d-5-6e8"
+  },
+  "/docs/forca-e-momento-de-uma-forca/momento-de-uma-forca-aef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-e-momento-de-uma-forca-momento-de-uma-forca-6-f-7-67f"
   },
   "/docs/formas-para-concreto-armado/norma-15696-b55": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -283,6 +343,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
+  "/docs/momento/momento-de-primeira-ordem-86d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-momento-momento-de-primeira-ordem-1-ef-f02"
+  },
+  "/docs/momento/momento-de-segunda-ordem-cc9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-momento-momento-de-segunda-ordema-11-d3d"
+  },
   "/docs/pesquisa-automacao/industria-4-0-361": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-pesquisa-automacao-industria-4-0-edc-a42"
@@ -298,6 +366,22 @@
   "/docs/pesquisa-automacao/sensores-de-qualidade-e-execucao-3e3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-pesquisa-automacao-sensores-de-qualidade-e-execucao-4-e-4-ad4"
+  },
+  "/docs/projetos-estruturais/edificio-5-andares-243": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-projetos-estruturais-edificio-5-andarese-0-a-a62"
+  },
+  "/docs/verificacao-estabilidade-global/diagrama-momento-curvatura-2ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-verificacao-estabilidade-global-diagrama-momento-curvaturaa-58-e3f"
+  },
+  "/docs/verificacao-estabilidade-global/diagrama-normal-momento-curvatura-85f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-verificacao-estabilidade-global-diagrama-normal-momento-curvatura-01-c-c1e"
+  },
+  "/docs/verificacao-estabilidade-global/grafico-tensao-deformacao-do-concreto-armado-5a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-verificacao-estabilidade-global-grafico-tensao-deformacao-do-concreto-armado-5-b-7-d46"
   },
   "/docs/verificacao-estabilidade-global/parametros-de-estabilidade-global-e7c": {
     "__comp": "__comp---theme-doc-item-178-a40",

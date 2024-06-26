@@ -1,0 +1,25 @@
+{
+  "id": "centro-de-massa/centro_de_massa",
+  "title": "Centro de Massa",
+  "description": "Centro de massa para 2 partículas:",
+  "source": "@site/docs/01-centro-de-massa/01-centro_de_massa.md",
+  "sourceDirName": "01-centro-de-massa",
+  "slug": "/centro-de-massa/centro_de_massa",
+  "permalink": "/docs/centro-de-massa/centro_de_massa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01-centro-de-massa/01-centro_de_massa.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Momento de uma força",
+    "permalink": "/docs/forca-e-momento-de-uma-forca/momento-de-uma-forca"
+  },
+  "next": {
+    "title": "intro",
+    "permalink": "/docs/intro"
+  }
+}

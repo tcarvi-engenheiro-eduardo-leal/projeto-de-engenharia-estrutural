@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Coeficiente de Poisson",
-    "permalink": "/docs/conceitos/coeficiente_de_poisson"
+    "title": "Efeitos de Segunda Ordem",
+    "permalink": "/docs/conceitos/efeitos-de-segunda-ordem"
   },
   "next": {
-    "title": "Módulo de Elasticidade",
-    "permalink": "/docs/conceitos/modulo_de_elasticidade"
+    "title": "Ensaio em túnel de vento",
+    "permalink": "/docs/conceitos/ensaio-tunel-de-vento"
   }
 }

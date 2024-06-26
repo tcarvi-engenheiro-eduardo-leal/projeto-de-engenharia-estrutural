@@ -1,0 +1,25 @@
+{
+  "id": "verificacao-estabilidade-global/diagrama-momento-curvatura",
+  "title": "Diagrama Momento-Curvatura",
+  "description": "- No dia-a-dia da análise estrutural, o projetista baseia suas análise no diagrama momento-curvatura e não no gráfico tensão-deformação. O foco do trabalho é normalmente a identificação de momentos fletores e não das tensões.",
+  "source": "@site/docs/03-verificacao-estabilidade-global/03-diagrama-momento-curvatura.md",
+  "sourceDirName": "03-verificacao-estabilidade-global",
+  "slug": "/verificacao-estabilidade-global/diagrama-momento-curvatura",
+  "permalink": "/docs/verificacao-estabilidade-global/diagrama-momento-curvatura",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-verificacao-estabilidade-global/03-diagrama-momento-curvatura.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gráfico Tensão-Deformação do Concreto Armado",
+    "permalink": "/docs/verificacao-estabilidade-global/grafico-tensao-deformacao-do-concreto-armado"
+  },
+  "next": {
+    "title": "Diagrama Normal-Momento-Curvatura",
+    "permalink": "/docs/verificacao-estabilidade-global/diagrama-normal-momento-curvatura"
+  }
+}

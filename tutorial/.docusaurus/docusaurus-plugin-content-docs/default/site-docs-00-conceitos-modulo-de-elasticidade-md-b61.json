@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "elementos_estruturais",
-    "permalink": "/docs/conceitos/elementos_estruturais"
+    "title": "Ensaio em túnel de vento",
+    "permalink": "/docs/conceitos/ensaio-tunel-de-vento"
   },
   "next": {
-    "title": "Tensão",
-    "permalink": "/docs/conceitos/tensao"
+    "title": "momento-de-inercia",
+    "permalink": "/docs/conceitos/momento-de-inercia"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "id": "conceitos/efeitos-de-segunda-ordem",
+  "title": "Efeitos de Segunda Ordem",
+  "description": "- Efeitos de segunda ordem referem-se às forças e momentos adicionais que surgem devido às deformações na estrutura quando sujeitas a cargas. Esses efeitos são uma segunda iteração de cálculos, onde as deformações já presentes na estrutura afetam as cargas aplicadas, levando a uma análise mais precisa.",
+  "source": "@site/docs/00-conceitos/efeitos-de-segunda-ordem.md",
+  "sourceDirName": "00-conceitos",
+  "slug": "/conceitos/efeitos-de-segunda-ordem",
+  "permalink": "/docs/conceitos/efeitos-de-segunda-ordem",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/00-conceitos/efeitos-de-segunda-ordem.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "contraventamento",
+    "permalink": "/docs/conceitos/contraventamento"
+  },
+  "next": {
+    "title": "elementos_estruturais",
+    "permalink": "/docs/conceitos/elementos_estruturais"
+  }
+}

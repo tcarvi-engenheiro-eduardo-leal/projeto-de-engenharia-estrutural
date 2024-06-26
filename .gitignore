@@ -1,3 +1,4 @@
 .DS_Store
 tutorial/node_modules
 tutorial/package-lock.json
+nao_enviar/

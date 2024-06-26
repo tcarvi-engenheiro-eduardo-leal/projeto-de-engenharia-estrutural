@@ -1,0 +1,24 @@
+{
+  "id": "conceitos/ensaio-tunel-de-vento",
+  "title": "Ensaio em túnel de vento",
+  "description": "- Ensaios em túneis de vento são experimentos realizados em instalações especializadas que permitem o estudo do comportamento aerodinâmico de objetos sob a ação de um fluxo de ar controlado.",
+  "source": "@site/docs/00-conceitos/ensaio-tunel-de-vento.md",
+  "sourceDirName": "00-conceitos",
+  "slug": "/conceitos/ensaio-tunel-de-vento",
+  "permalink": "/docs/conceitos/ensaio-tunel-de-vento",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/00-conceitos/ensaio-tunel-de-vento.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elementos_estruturais",
+    "permalink": "/docs/conceitos/elementos_estruturais"
+  },
+  "next": {
+    "title": "Módulo de Elasticidade",
+    "permalink": "/docs/conceitos/modulo_de_elasticidade"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-momento-fletor",
+  "title": "equacoes-e-diagramas-de-momento-fletor",
+  "description": "",
+  "source": "@site/docs/04-forca-cortante-e-movimento-fletor/03-equacoes-e-diagramas-de-momento-fletor.md",
+  "sourceDirName": "04-forca-cortante-e-movimento-fletor",
+  "slug": "/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-momento-fletor",
+  "permalink": "/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-momento-fletor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04-forca-cortante-e-movimento-fletor/03-equacoes-e-diagramas-de-momento-fletor.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "equacoes-e-diagramas-de-forca-cortante",
+    "permalink": "/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-forca-cortante"
+  },
+  "next": {
+    "title": "carga-ditribuida-forca-cortante-e-momento-fletor",
+    "permalink": "/docs/forca-cortante-e-movimento-fletor/carga-ditribuida-forca-cortante-e-momento-fletor"
+  }
+}

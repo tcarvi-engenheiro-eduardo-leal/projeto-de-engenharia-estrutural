@@ -1,0 +1,24 @@
+{
+  "id": "momento/momento-de-segunda-ordem",
+  "title": "Momento de segunda ordem de uma Força",
+  "description": "- Tendência de uma força produzir rotação em um corpo em torno de algum eixo longitudinal de referência.",
+  "source": "@site/docs/momento/momento-de-segunda-ordem.md",
+  "sourceDirName": "momento",
+  "slug": "/momento/momento-de-segunda-ordem",
+  "permalink": "/docs/momento/momento-de-segunda-ordem",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/momento/momento-de-segunda-ordem.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Momento de primeira ordem de uma Força",
+    "permalink": "/docs/momento/momento-de-primeira-ordem"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

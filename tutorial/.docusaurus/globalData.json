@@ -8,11 +8,26 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "forca-e-momento-de-uma-forca/forca",
           "docs": [
+            {
+              "id": "centro-de-massa/centro_de_massa",
+              "path": "/docs/centro-de-massa/centro_de_massa",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "conceitos/coeficiente_de_poisson",
               "path": "/docs/conceitos/coeficiente_de_poisson",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conceitos/contraventamento",
+              "path": "/docs/conceitos/contraventamento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conceitos/efeitos-de-segunda-ordem",
+              "path": "/docs/conceitos/efeitos-de-segunda-ordem",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -21,8 +36,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "conceitos/ensaio-tunel-de-vento",
+              "path": "/docs/conceitos/ensaio-tunel-de-vento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "conceitos/modulo_de_elasticidade",
               "path": "/docs/conceitos/modulo_de_elasticidade",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conceitos/momento-de-inercia",
+              "path": "/docs/conceitos/momento-de-inercia",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -33,6 +58,51 @@
             {
               "id": "controle-tecnologico/controle-tecnologico-insumos-concreto",
               "path": "/docs/controle-tecnologico/controle-tecnologico-insumos-concreto",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "forca-cortante-e-movimento-fletor/cabos",
+              "path": "/docs/forca-cortante-e-movimento-fletor/cabos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "forca-cortante-e-movimento-fletor/carga-ditribuida-forca-cortante-e-momento-fletor",
+              "path": "/docs/forca-cortante-e-movimento-fletor/carga-ditribuida-forca-cortante-e-momento-fletor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "forca-cortante-e-movimento-fletor/cargas-internas-em-membros-estruturais",
+              "path": "/docs/forca-cortante-e-movimento-fletor/cargas-internas-em-membros-estruturais",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-forca-cortante",
+              "path": "/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-forca-cortante",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-momento-fletor",
+              "path": "/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-momento-fletor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "forca-e-momento-de-uma-forca/diagframa-de-corpo-livre",
+              "path": "/docs/forca-e-momento-de-uma-forca/diagframa-de-corpo-livre",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "forca-e-momento-de-uma-forca/equilibrio-de-uma-particula",
+              "path": "/docs/forca-e-momento-de-uma-forca/equilibrio-de-uma-particula",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "forca-e-momento-de-uma-forca/forca",
+              "path": "/docs/forca-e-momento-de-uma-forca/forca",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "forca-e-momento-de-uma-forca/momento-de-uma-forca",
+              "path": "/docs/forca-e-momento-de-uma-forca/momento-de-uma-forca",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -81,6 +151,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "momento/momento-de-primeira-ordem",
+              "path": "/docs/momento/momento-de-primeira-ordem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "momento/momento-de-segunda-ordem",
+              "path": "/docs/momento/momento-de-segunda-ordem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "pesquisa-automacao/industria-4-0",
               "path": "/docs/pesquisa-automacao/industria-4-0",
               "sidebar": "tutorialSidebar"
@@ -98,6 +178,26 @@
             {
               "id": "pesquisa-automacao/sensores-de-qualidade-e-execucao",
               "path": "/docs/pesquisa-automacao/sensores-de-qualidade-e-execucao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projetos-estruturais/edificio-5-andares",
+              "path": "/docs/projetos-estruturais/edificio-5-andares",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "verificacao-estabilidade-global/diagrama-momento-curvatura",
+              "path": "/docs/verificacao-estabilidade-global/diagrama-momento-curvatura",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "verificacao-estabilidade-global/diagrama-normal-momento-curvatura",
+              "path": "/docs/verificacao-estabilidade-global/diagrama-normal-momento-curvatura",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "verificacao-estabilidade-global/grafico-tensao-deformacao-do-concreto-armado",
+              "path": "/docs/verificacao-estabilidade-global/grafico-tensao-deformacao-do-concreto-armado",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -126,6 +226,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "/category/momento",
+              "path": "/docs/category/momento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/tutorial---extras",
               "path": "/docs/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
@@ -135,8 +240,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/forca-e-momento-de-uma-forca/forca",
+                "label": "forca-e-momento-de-uma-forca/forca"
               }
             }
           }

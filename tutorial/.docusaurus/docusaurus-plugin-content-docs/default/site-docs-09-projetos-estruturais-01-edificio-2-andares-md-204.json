@@ -1,0 +1,25 @@
+{
+  "id": "projetos-estruturais/edificio-2-andares",
+  "title": "Projeto de Edificação de 2 andares",
+  "description": "Memorial de Cálculo para Projeto Estrutural com Parâmetro",
+  "source": "@site/docs/09-projetos-estruturais/01-edificio-2-andares.md",
+  "sourceDirName": "09-projetos-estruturais",
+  "slug": "/projetos-estruturais/edificio-2-andares",
+  "permalink": "/docs/projetos-estruturais/edificio-2-andares",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/09-projetos-estruturais/01-edificio-2-andares.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cabos",
+    "permalink": "/docs/forca-cortante-e-movimento-fletor/cabos"
+  },
+  "next": {
+    "title": "sap",
+    "permalink": "/docs/sap"
+  }
+}

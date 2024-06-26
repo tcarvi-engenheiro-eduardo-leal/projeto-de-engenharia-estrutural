@@ -1,0 +1,21 @@
+{
+  "id": "forca-e-momento-de-uma-forca/forca",
+  "title": "Força",
+  "description": "- força",
+  "source": "@site/docs/00-forca-e-momento-de-uma-forca/01-forca.md",
+  "sourceDirName": "00-forca-e-momento-de-uma-forca",
+  "slug": "/forca-e-momento-de-uma-forca/forca",
+  "permalink": "/docs/forca-e-momento-de-uma-forca/forca",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/00-forca-e-momento-de-uma-forca/01-forca.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "equilibrio-de-uma-particula",
+    "permalink": "/docs/forca-e-momento-de-uma-forca/equilibrio-de-uma-particula"
+  }
+}

@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'abd'),
+    component: ComponentCreator('/docs', '0d3'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'cb2'),
+        component: ComponentCreator('/docs', '22b'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '379'),
+            component: ComponentCreator('/docs', '350'),
             routes: [
               {
                 path: '/docs/category/conceitos-em-engenharia-de-estruturas',
@@ -128,6 +128,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/category/momento',
+                component: ComponentCreator('/docs/category/momento', 'f2f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/category/tutorial---extras',
                 component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
                 exact: true,
@@ -140,8 +146,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/centro-de-massa/centro_de_massa',
+                component: ComponentCreator('/docs/centro-de-massa/centro_de_massa', '05c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/conceitos/coeficiente_de_poisson',
                 component: ComponentCreator('/docs/conceitos/coeficiente_de_poisson', '337'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/conceitos/contraventamento',
+                component: ComponentCreator('/docs/conceitos/contraventamento', '955'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/conceitos/efeitos-de-segunda-ordem',
+                component: ComponentCreator('/docs/conceitos/efeitos-de-segunda-ordem', '648'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -152,8 +176,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/conceitos/ensaio-tunel-de-vento',
+                component: ComponentCreator('/docs/conceitos/ensaio-tunel-de-vento', 'f6a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/conceitos/modulo_de_elasticidade',
                 component: ComponentCreator('/docs/conceitos/modulo_de_elasticidade', '563'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/conceitos/momento-de-inercia',
+                component: ComponentCreator('/docs/conceitos/momento-de-inercia', 'ac9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -166,6 +202,60 @@ export default [
               {
                 path: '/docs/controle-tecnologico/controle-tecnologico-insumos-concreto',
                 component: ComponentCreator('/docs/controle-tecnologico/controle-tecnologico-insumos-concreto', 'c49'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/forca-cortante-e-movimento-fletor/cabos',
+                component: ComponentCreator('/docs/forca-cortante-e-movimento-fletor/cabos', '825'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/forca-cortante-e-movimento-fletor/carga-ditribuida-forca-cortante-e-momento-fletor',
+                component: ComponentCreator('/docs/forca-cortante-e-movimento-fletor/carga-ditribuida-forca-cortante-e-momento-fletor', 'cac'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/forca-cortante-e-movimento-fletor/cargas-internas-em-membros-estruturais',
+                component: ComponentCreator('/docs/forca-cortante-e-movimento-fletor/cargas-internas-em-membros-estruturais', 'b62'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-forca-cortante',
+                component: ComponentCreator('/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-forca-cortante', 'de6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-momento-fletor',
+                component: ComponentCreator('/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-momento-fletor', 'c5d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/forca-e-momento-de-uma-forca/diagframa-de-corpo-livre',
+                component: ComponentCreator('/docs/forca-e-momento-de-uma-forca/diagframa-de-corpo-livre', '993'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/forca-e-momento-de-uma-forca/equilibrio-de-uma-particula',
+                component: ComponentCreator('/docs/forca-e-momento-de-uma-forca/equilibrio-de-uma-particula', '93d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/forca-e-momento-de-uma-forca/forca',
+                component: ComponentCreator('/docs/forca-e-momento-de-uma-forca/forca', '32c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/forca-e-momento-de-uma-forca/momento-de-uma-forca',
+                component: ComponentCreator('/docs/forca-e-momento-de-uma-forca/momento-de-uma-forca', 'aef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -224,6 +314,18 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/momento/momento-de-primeira-ordem',
+                component: ComponentCreator('/docs/momento/momento-de-primeira-ordem', '86d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/momento/momento-de-segunda-ordem',
+                component: ComponentCreator('/docs/momento/momento-de-segunda-ordem', 'cc9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/pesquisa-automacao/industria-4-0',
                 component: ComponentCreator('/docs/pesquisa-automacao/industria-4-0', '361'),
                 exact: true,
@@ -244,6 +346,30 @@ export default [
               {
                 path: '/docs/pesquisa-automacao/sensores-de-qualidade-e-execucao',
                 component: ComponentCreator('/docs/pesquisa-automacao/sensores-de-qualidade-e-execucao', '3e3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/projetos-estruturais/edificio-5-andares',
+                component: ComponentCreator('/docs/projetos-estruturais/edificio-5-andares', '243'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/verificacao-estabilidade-global/diagrama-momento-curvatura',
+                component: ComponentCreator('/docs/verificacao-estabilidade-global/diagrama-momento-curvatura', '2ca'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/verificacao-estabilidade-global/diagrama-normal-momento-curvatura',
+                component: ComponentCreator('/docs/verificacao-estabilidade-global/diagrama-normal-momento-curvatura', '85f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/verificacao-estabilidade-global/grafico-tensao-deformacao-do-concreto-armado',
+                component: ComponentCreator('/docs/verificacao-estabilidade-global/grafico-tensao-deformacao-do-concreto-armado', '5a6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

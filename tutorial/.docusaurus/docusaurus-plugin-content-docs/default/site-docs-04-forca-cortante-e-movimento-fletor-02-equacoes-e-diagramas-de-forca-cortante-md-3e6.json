@@ -1,0 +1,25 @@
+{
+  "id": "forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-forca-cortante",
+  "title": "equacoes-e-diagramas-de-forca-cortante",
+  "description": "",
+  "source": "@site/docs/04-forca-cortante-e-movimento-fletor/02-equacoes-e-diagramas-de-forca-cortante.md",
+  "sourceDirName": "04-forca-cortante-e-movimento-fletor",
+  "slug": "/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-forca-cortante",
+  "permalink": "/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-forca-cortante",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04-forca-cortante-e-movimento-fletor/02-equacoes-e-diagramas-de-forca-cortante.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cargas-internas-em-membros-estruturais",
+    "permalink": "/docs/forca-cortante-e-movimento-fletor/cargas-internas-em-membros-estruturais"
+  },
+  "next": {
+    "title": "equacoes-e-diagramas-de-momento-fletor",
+    "permalink": "/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-momento-fletor"
+  }
+}

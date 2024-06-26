@@ -17,5 +17,9 @@
   "previous": {
     "title": "Robótica",
     "permalink": "/docs/pesquisa-automacao/robotica"
+  },
+  "next": {
+    "title": "cargas-internas-em-membros-estruturais",
+    "permalink": "/docs/forca-cortante-e-movimento-fletor/cargas-internas-em-membros-estruturais"
   }
 }
