@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '0d3'),
+    component: ComponentCreator('/docs', '6f3'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '22b'),
+        component: ComponentCreator('/docs', '08f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '350'),
+            component: ComponentCreator('/docs', 'bef'),
             routes: [
               {
                 path: '/docs/category/conceitos-em-engenharia-de-estruturas',
@@ -316,12 +316,6 @@ export default [
               {
                 path: '/docs/momento/momento-de-primeira-ordem',
                 component: ComponentCreator('/docs/momento/momento-de-primeira-ordem', '86d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/momento/momento-de-segunda-ordem',
-                component: ComponentCreator('/docs/momento/momento-de-segunda-ordem', 'cc9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
