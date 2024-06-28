@@ -1,7 +1,7 @@
 {
   "id": "projetos-estruturais/edificio-5-andares",
   "title": "Projeto de Edificação de 5 andares",
-  "description": "Memorial de Cálculo para Projeto Estrutural com Parâmetro",
+  "description": "Memorial de Cálculo de Projeto Estrutural",
   "source": "@site/docs/09-projetos-estruturais/01-edificio-5-andares.md",
   "sourceDirName": "09-projetos-estruturais",
   "slug": "/projetos-estruturais/edificio-5-andares",

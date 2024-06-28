@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '6f3'),
+    component: ComponentCreator('/docs', '01b'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '08f'),
+        component: ComponentCreator('/docs', '071'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'bef'),
+            component: ComponentCreator('/docs', '551'),
             routes: [
               {
                 path: '/docs/category/conceitos-em-engenharia-de-estruturas',
@@ -344,8 +344,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/projetos-estruturais/edificio-5-andares',
-                component: ComponentCreator('/docs/projetos-estruturais/edificio-5-andares', '243'),
+                path: '/docs/projetos-estruturais/etapas-do-projeto-estrutural',
+                component: ComponentCreator('/docs/projetos-estruturais/etapas-do-projeto-estrutural', 'cb5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

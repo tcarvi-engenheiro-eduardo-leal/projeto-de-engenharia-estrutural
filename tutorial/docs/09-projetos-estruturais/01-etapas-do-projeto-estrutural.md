@@ -1,13 +1,93 @@
 # Projeto de Edificação de 5 andares
 
-### Memorial de Cálculo para Projeto Estrutural com Parâmetro
-- Este memorial de cálculo descreve o processo de análise e dimensionamento de uma estrutura de concreto armado.
+### Memorial de Cálculo de Projeto Estrutural
+- Cálculo de carga de vento
+- Cálculo de carga da estrutura
+- Cálculo do Dimensionamento das seções de elementos estuturais de concreto armado
+- Cálculo do Dimensionamento das armaduras dos elementos estruturais de concreto armado.
 
-### Resultados
-- parâmetro alfa = 
-- parâmetro gamma_z = 1,2 
-    - o que indica a necessidade de se considerar os efeitos de segunda ordem devido à amplificação de esforços causada pela deformação sob cargas.
+## Cálculo Inicial da carga da estrutura
+- Dimensionamento Inicial das seções de elementos estuturais de concreto armado
+- Dimensionamento Inicial das armaduras dos elementos estruturais de concreto armado.
+- Suposição Inicial para aproximação nos demais cálculos
+- XXXXXX MPa em XXXX pontos de ligação com a fundação
+
+## Cálculo Inicial da carga de Vento
+- Suposição Inicial para aproximação nos demais cálculos
+- XXXXXX MPa em XXXX pontos de ligação com a fundação
+- XXXXXX Desolacamneto em pontos de ligação:
+- Momento XXXXX em XXXXX pontos de ligação com a fundação
+
+## Relatório Inicial da Estabilidade Global da Edificação
+### Parâmetro alfa
+- A definir
+- Conclusões
+### parâmetro gamma_z
+- A definir
+- Conclusões
+## Parâmetro P-Delta
+- o que indica a necessidade de se considerar os efeitos de segunda ordem devido à amplificação de esforços causada pela deformação sob cargas.
 - Parâmetro P Delta
+## Conclusão Inicial da Avaliação Da Estabilidade Global da Edificação
+- Relateorio Inicial
+
+## Refazimento de Projeto para Otimização Intermediária dos Cálculos
+## Cálculo Intermediário da carga da estrutura
+- Dimensionamento Intermediário das seções de elementos estuturais de concreto armado
+- Dimensionamento Intermediário das armaduras dos elementos estruturais de concreto armado.
+- Suposição Inicial para aproximação nos demais cálculos
+- XXXXXX MPa em XXXX pontos de ligação com a fundação
+
+## Cálculo Intermediário da carga de Vento
+- Suposição Inicial para aproximação nos demais cálculos
+- XXXXXX MPa em XXXX pontos de ligação com a fundação
+- XXXXXX Desolacamneto em pontos de ligação:
+- Momento XXXXX em XXXXX pontos de ligação com a fundação
+
+## Relatório Intermediário da Estabilidade Global da Edificação
+### Parâmetro alfa
+- A definir
+- Conclusões
+### parâmetro gamma_z
+- A definir
+- Conclusões
+## Parâmetro P-Delta
+- o que indica a necessidade de se considerar os efeitos de segunda ordem devido à amplificação de esforços causada pela deformação sob cargas.
+- Parâmetro P Delta
+## Conclusão Intermediário da Avaliação Da Estabilidade Global da Edificação
+- Relatório Intermediário
+
+## Dimensionamento definito das seções de elementos estuturais de concreto armado
+-
+
+## Dimensionamento definito das armaduras dos elementos estruturais de concreto armado
+-
+
+## Refazimento de Projeto para Otimização Final dos Cálculos
+### Cálculo Final da carga da estrutura
+- Dimensionamento Intermediário das seções de elementos estuturais de concreto armado
+- Dimensionamento Intermediário das armaduras dos elementos estruturais de concreto armado.
+- Suposição Inicial para aproximação nos demais cálculos
+- XXXXXX MPa em XXXX pontos de ligação com a fundação
+
+### Cálculo Final da carga de Vento
+- Suposição Inicial para aproximação nos demais cálculos
+- XXXXXX MPa em XXXX pontos de ligação com a fundação
+- XXXXXX Desolacamneto em pontos de ligação:
+- Momento XXXXX em XXXXX pontos de ligação com a fundação
+
+### Relatório Final da Estabilidade Global da Edificação
+#### Parâmetro alfa
+- A definir
+- Conclusões
+#### parâmetro gamma_z
+- A definir
+- Conclusões
+#### Parâmetro P-Delta
+- o que indica a necessidade de se considerar os efeitos de segunda ordem devido à amplificação de esforços causada pela deformação sob cargas.
+- Parâmetro P Delta
+### Conclusão Final da Avaliação Da Estabilidade Global da Edificação
+- Relatório Intermediário
 
 #### Sobre o projeto
 - O projeto refere-se à análise estrutural de um edifício de dois andares em concreto armado.
