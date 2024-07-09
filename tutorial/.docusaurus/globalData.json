@@ -26,6 +26,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "conceitos/dimensionamento-de-fundacoes-superficiais",
+              "path": "/docs/conceitos/dimensionamento-de-fundacoes-superficiais",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "conceitos/efeitos-de-segunda-ordem",
               "path": "/docs/conceitos/efeitos-de-segunda-ordem",
               "sidebar": "tutorialSidebar"

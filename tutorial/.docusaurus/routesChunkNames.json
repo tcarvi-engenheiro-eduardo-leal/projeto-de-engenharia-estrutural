@@ -1,354 +1,401 @@
 {
-  "/blog-b2f": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "__props": "c15d9823"
-  },
-  "/blog/archive-182": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "__props": "f81c1134"
-  },
-  "/blog/first-blog-post-89a": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
-  },
-  "/blog/long-blog-post-9ad": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "73664a40"
-  },
-  "/blog/mdx-blog-post-e9f": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "59362658"
-  },
-  "/blog/tags-287": {
-    "__comp": "01a85c17",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "3a2db09e"
-  },
-  "/blog/tags/docusaurus-704": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "__props": "3217192f"
-  },
-  "/blog/tags/facebook-858": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      }
-    ],
-    "__props": "e5aefb32"
-  },
-  "/blog/tags/hello-299": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "8717b14a"
-      }
-    ],
-    "__props": "f82cd581"
-  },
-  "/blog/tags/hola-00d": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "__props": "5e90a9b3"
-  },
-  "/blog/welcome-d2b": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
-  },
-  "/markdown-page-3d7": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "a7456010"
-    },
-    "content": "393be207"
-  },
-  "/docs-537": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/docs-6d2": {
-    "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
   },
-  "/docs-32a": {
-    "__comp": "a94703ab"
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/blog-b2f": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "__props": "__props---blogc-15-573"
+  },
+  "/blog/archive-182": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "__props": "__props---blog-archivef-81-229"
+  },
+  "/blog/first-blog-post-89a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-first-blog-postace-ee5"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
+  },
+  "/blog/long-blog-post-9ad": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-first-blog-postace-ee5"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
+  },
+  "/blog/mdx-blog-post-e9f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-first-blog-postace-ee5"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
+  },
+  "/blog/tags-287": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-tags-3-a-2-fa2"
+  },
+  "/blog/tags/docusaurus-704": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "__props": "__props---blog-tags-docusaurus-321-832"
+  },
+  "/blog/tags/facebook-858": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      }
+    ],
+    "__props": "__props---blog-tags-facebooke-5-a-514"
+  },
+  "/blog/tags/hello-299": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blog-871-381"
+      }
+    ],
+    "__props": "__props---blog-tags-hellof-82-2fd"
+  },
+  "/blog/tags/hola-00d": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "__props": "__props---blog-tags-hola-5-e-9-9a3"
+  },
+  "/blog/welcome-d2b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-first-blog-postace-ee5"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-3ea": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-dd2": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-5a6": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/conceitos-em-engenharia-de-estruturas-a03": {
-    "__comp": "14eb3368",
-    "__props": "f6d7815f"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-conceitos-em-engenharia-de-estruturasf-6-d-8d4"
   },
   "/docs/category/controle-tecnológico-203": {
-    "__comp": "14eb3368",
-    "__props": "65248f39"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-controle-tecnologico-652-ef1"
   },
   "/docs/category/fôrmas-e-escoramento-73e": {
-    "__comp": "14eb3368",
-    "__props": "54a11b1b"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-formas-e-escoramento-54-a-8eb"
   },
   "/docs/category/momento-f2f": {
-    "__comp": "14eb3368",
-    "__props": "40e82366"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-momento-40-e-574"
   },
   "/docs/category/tutorial---extras-9ad": {
-    "__comp": "14eb3368",
-    "__props": "6bb166bd"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-tutorial-extras-6-bb-a82"
   },
   "/docs/category/verificação-da-estabilidade-global-563": {
-    "__comp": "14eb3368",
-    "__props": "503e8a67"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-verificacao-da-estabilidade-global-503-4b8"
   },
   "/docs/centro-de-massa/centro_de_massa-05c": {
-    "__comp": "17896441",
-    "content": "869c2413"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-centro-de-massa-centro-de-massa-869-eb0"
   },
   "/docs/conceitos/coeficiente_de_poisson-337": {
-    "__comp": "17896441",
-    "content": "fc60ebbb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-coeficiente-de-poissonfc-6-c69"
   },
   "/docs/conceitos/contraventamento-955": {
-    "__comp": "17896441",
-    "content": "f2db15fa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-contraventamentof-2-d-b72"
+  },
+  "/docs/conceitos/dimensionamento-de-fundacoes-superficiais-e79": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-dimensionamento-de-fundacoes-superficiaisd-05-742"
   },
   "/docs/conceitos/efeitos-de-segunda-ordem-648": {
-    "__comp": "17896441",
-    "content": "48615f88"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-efeitos-de-segunda-ordem-486-baa"
   },
   "/docs/conceitos/elementos_estruturais-c48": {
-    "__comp": "17896441",
-    "content": "62ce9e5f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-elementos-estruturais-62-c-83e"
   },
   "/docs/conceitos/ensaio-tunel-de-vento-f6a": {
-    "__comp": "17896441",
-    "content": "7dfbb6b5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-ensaio-tunel-de-vento-7-df-307"
   },
   "/docs/conceitos/fundacoes-48b": {
-    "__comp": "17896441",
-    "content": "a803cbc8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-fundacoesa-80-173"
   },
   "/docs/conceitos/modulo_de_elasticidade-563": {
-    "__comp": "17896441",
-    "content": "b619c669"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-modulo-de-elasticidadeb-61-1e4"
   },
   "/docs/conceitos/momento-de-inercia-ac9": {
-    "__comp": "17896441",
-    "content": "3eb7bd2b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-momento-de-inercia-3-eb-942"
   },
   "/docs/conceitos/tensao-182": {
-    "__comp": "17896441",
-    "content": "ed2cd33f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-tensaoed-2-643"
   },
   "/docs/controle-tecnologico/controle-tecnologico-insumos-concreto-c49": {
-    "__comp": "17896441",
-    "content": "3eb1c8b5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-controle-tecnologico-controle-tecnologico-insumos-concreto-3-eb-f4c"
   },
   "/docs/forca-cortante-e-movimento-fletor/cabos-825": {
-    "__comp": "17896441",
-    "content": "cddff218"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-cortante-e-movimento-fletor-caboscdd-579"
   },
   "/docs/forca-cortante-e-movimento-fletor/carga-ditribuida-forca-cortante-e-momento-fletor-cac": {
-    "__comp": "17896441",
-    "content": "ce3499c5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-cortante-e-movimento-fletor-carga-ditribuida-forca-cortante-e-momento-fletorce-3-3a2"
   },
   "/docs/forca-cortante-e-movimento-fletor/cargas-internas-em-membros-estruturais-b62": {
-    "__comp": "17896441",
-    "content": "38c7083c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-cortante-e-movimento-fletor-cargas-internas-em-membros-estruturais-38-c-b27"
   },
   "/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-forca-cortante-de6": {
-    "__comp": "17896441",
-    "content": "3e660dbe"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-cortante-e-movimento-fletor-equacoes-e-diagramas-de-forca-cortante-3-e-6-c75"
   },
   "/docs/forca-cortante-e-movimento-fletor/equacoes-e-diagramas-de-momento-fletor-c5d": {
-    "__comp": "17896441",
-    "content": "6a250bce"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-cortante-e-movimento-fletor-equacoes-e-diagramas-de-momento-fletor-6-a-2-f29"
   },
   "/docs/forca-e-momento-de-uma-forca/diagframa-de-corpo-livre-993": {
-    "__comp": "17896441",
-    "content": "fb2e2f51"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-e-momento-de-uma-forca-diagframa-de-corpo-livrefb-2-281"
   },
   "/docs/forca-e-momento-de-uma-forca/equilibrio-de-uma-particula-93d": {
-    "__comp": "17896441",
-    "content": "862c3124"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-e-momento-de-uma-forca-equilibrio-de-uma-particula-862-ff3"
   },
   "/docs/forca-e-momento-de-uma-forca/forca-32c": {
-    "__comp": "17896441",
-    "content": "4d5abcf6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-e-momento-de-uma-forca-forca-4-d-5-6e8"
   },
   "/docs/forca-e-momento-de-uma-forca/momento-de-uma-forca-aef": {
-    "__comp": "17896441",
-    "content": "6f756aeb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-forca-e-momento-de-uma-forca-momento-de-uma-forca-6-f-7-67f"
   },
   "/docs/formas-para-concreto-armado/norma-15696-b55": {
-    "__comp": "17896441",
-    "content": "e26bad8a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-norma-15696-e-26-ce1"
   },
   "/docs/formas-para-concreto-armado/presssao-de-concretagem-602": {
-    "__comp": "17896441",
-    "content": "57411d7c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-presssao-de-concretagem-574-c2e"
   },
   "/docs/formas-para-concreto-armado/reescoramento-421": {
-    "__comp": "17896441",
-    "content": "fa8b6e61"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-reescoramentofa-8-1b0"
   },
   "/docs/formas-para-concreto-armado/sistemas-de-escoramento-cf5": {
-    "__comp": "17896441",
-    "content": "81214373"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-sistemas-de-escoramento-812-920"
   },
   "/docs/formas-para-concreto-armado/sistemas-de-formas-bbe": {
-    "__comp": "17896441",
-    "content": "ba5863c7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-sistemas-de-formasba-5-a03"
   },
   "/docs/formas-para-concreto-armado/solucoes-por-elemento-estrutural-724": {
-    "__comp": "17896441",
-    "content": "a5857fda"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-solucoes-por-elemento-estruturala-58-28b"
   },
   "/docs/formas-para-concreto-armado/termos-e-definicoes-3c0": {
-    "__comp": "17896441",
-    "content": "dbcca485"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-termos-e-definicoesdbc-341"
   },
   "/docs/formas-para-concreto-armado/tubos-e-bracadeiras-6ad": {
-    "__comp": "17896441",
-    "content": "f123a30e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-formas-para-concreto-armado-tubos-e-bracadeirasf-12-45a"
   },
   "/docs/intro-61d": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/momento/momento-de-primeira-ordem-86d": {
-    "__comp": "17896441",
-    "content": "1ef060b4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-momento-momento-de-primeira-ordem-1-ef-f02"
   },
   "/docs/pesquisa-automacao/industria-4-0-361": {
-    "__comp": "17896441",
-    "content": "edcab8be"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-pesquisa-automacao-industria-4-0-edc-a42"
   },
   "/docs/pesquisa-automacao/inteligência-artificial-embarcada-3bb": {
-    "__comp": "17896441",
-    "content": "d5bb683b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-pesquisa-automacao-inteligencia-artificial-embarcadad-5-b-5c7"
   },
   "/docs/pesquisa-automacao/robotica-4ba": {
-    "__comp": "17896441",
-    "content": "2c01b7ae"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-pesquisa-automacao-robotica-2-c-0-ce5"
   },
   "/docs/pesquisa-automacao/sensores-de-qualidade-e-execucao-3e3": {
-    "__comp": "17896441",
-    "content": "4e45e6af"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-pesquisa-automacao-sensores-de-qualidade-e-execucao-4-e-4-ad4"
   },
   "/docs/projetos-estruturais/etapas-do-projeto-estrutural-cb5": {
-    "__comp": "17896441",
-    "content": "516cfd84"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-projetos-estruturais-etapas-do-projeto-estrutural-516-029"
   },
   "/docs/verificacao-estabilidade-global/diagrama-momento-curvatura-2ca": {
-    "__comp": "17896441",
-    "content": "a5861320"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-verificacao-estabilidade-global-diagrama-momento-curvaturaa-58-e3f"
   },
   "/docs/verificacao-estabilidade-global/diagrama-normal-momento-curvatura-85f": {
-    "__comp": "17896441",
-    "content": "01c6f44b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-verificacao-estabilidade-global-diagrama-normal-momento-curvatura-01-c-c1e"
   },
   "/docs/verificacao-estabilidade-global/grafico-tensao-deformacao-do-concreto-armado-5a6": {
-    "__comp": "17896441",
-    "content": "5b71b468"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-verificacao-estabilidade-global-grafico-tensao-deformacao-do-concreto-armado-5-b-7-d46"
   },
   "/docs/verificacao-estabilidade-global/parametros-de-estabilidade-global-e7c": {
-    "__comp": "17896441",
-    "content": "9eb7b623"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-verificacao-estabilidade-global-parametros-de-estabilidade-global-9-eb-ae1"
   },
   "/-e5f": {
-    "__comp": "1df93b7f",
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---markdown-pagea-74-7b5"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }

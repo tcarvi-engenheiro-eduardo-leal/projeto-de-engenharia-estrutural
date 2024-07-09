@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -64,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '537'),
+    component: ComponentCreator('/docs', '3ea'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '6d2'),
+        component: ComponentCreator('/docs', 'dd2'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '32a'),
+            component: ComponentCreator('/docs', '5a6'),
             routes: [
               {
                 path: '/docs/category/conceitos-em-engenharia-de-estruturas',
@@ -125,6 +160,12 @@ export default [
               {
                 path: '/docs/conceitos/contraventamento',
                 component: ComponentCreator('/docs/conceitos/contraventamento', '955'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/conceitos/dimensionamento-de-fundacoes-superficiais',
+                component: ComponentCreator('/docs/conceitos/dimensionamento-de-fundacoes-superficiais', 'e79'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
