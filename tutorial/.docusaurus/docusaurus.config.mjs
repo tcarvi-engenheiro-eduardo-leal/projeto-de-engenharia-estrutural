@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "engenharia-estrutural",
+  "tagline": "",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/conceitos-basicos-de-engenharia-estrutural/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/conceitos-basicos-de-engenharia-estrutural/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -42,9 +42,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "engenharia-estrutural",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "engenharia-estrutural Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -60,7 +60,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/tcarvi-engenheiro-eduardo-leal/conceitos-basicos-de-engenharia-estrutural",
           "label": "GitHub",
           "position": "right"
         }
@@ -75,7 +75,7 @@ export default {
           "items": [
             {
               "label": "Tutorial",
-              "to": "/docs/intro"
+              "to": "/docs/conceitos/tensao"
             }
           ]
         },
@@ -105,12 +105,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/tcarvi-engenheiro-eduardo-leal/conceitos-basicos-de-engenharia-estrutural"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "copyright": "09/07/2024 ©TCARVI"
     },
     "prism": {
       "theme": {
