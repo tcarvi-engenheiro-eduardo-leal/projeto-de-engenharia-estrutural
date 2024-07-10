@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3ea'),
+    component: ComponentCreator('/docs', 'ba6'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'dd2'),
+        component: ComponentCreator('/docs', '2e6'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5a6'),
+            component: ComponentCreator('/docs', 'ce3'),
             routes: [
               {
                 path: '/docs/category/conceitos-em-engenharia-de-estruturas',
@@ -202,6 +202,12 @@ export default [
               {
                 path: '/docs/conceitos/momento-de-inercia',
                 component: ComponentCreator('/docs/conceitos/momento-de-inercia', 'ac9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/conceitos/projeto-e-execucao-de-fundacoes-superficiais',
+                component: ComponentCreator('/docs/conceitos/projeto-e-execucao-de-fundacoes-superficiais', '8cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

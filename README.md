@@ -1,4 +1,4 @@
-# conceitos-basicos-de-engenharia-estrutural
+# engenharia-estrutural
 Conceitos básicos para entender e trabalhar com engenharia estrutural.
 
 - Gerador de documentação:

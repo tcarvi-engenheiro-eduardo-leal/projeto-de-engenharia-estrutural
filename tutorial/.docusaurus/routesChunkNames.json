@@ -194,17 +194,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-3ea": {
+  "/docs-ba6": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-dd2": {
+  "/docs-2e6": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-5a6": {
+  "/docs-ce3": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/conceitos-em-engenharia-de-estruturas-a03": {
@@ -270,6 +270,10 @@
   "/docs/conceitos/momento-de-inercia-ac9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-conceitos-momento-de-inercia-3-eb-942"
+  },
+  "/docs/conceitos/projeto-e-execucao-de-fundacoes-superficiais-8cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conceitos-projeto-e-execucao-de-fundacoes-superficiais-5-b-2-823"
   },
   "/docs/conceitos/tensao-182": {
     "__comp": "__comp---theme-doc-item-178-a40",
