@@ -23,3 +23,22 @@ Por convenção, consideramos que o sentido anti-horário dos dedos indica indic
 # Momento de um binário
 
 # Redução de um carregamento distribuído simples
+
+#  Momento 
+de uma Força
+- Tendência de uma força produzir rotação em um corpo em torno de algum ponto de referência.
+- M = F d
+    - Sendo Momento (M) com unidade Newton.metro (N.m)
+    - Sendo Força (F) com unidade Newton (N)
+    - Sendo deslocamento (d) com unidade metro (m)
+    - Esta fórmula considera a Força e a Distancia ao Ponto de Referência como vetores de direção perpendicurar. Se houver inclinação na força, devemos primeiro calcular a projeção deste vetor no eixo perpendicar ao eixo da distância, para poder usar a quantidade numérica da projeção da força.
+    - O momento de uma força é uma grandeza vetorial.
+    - Convenção Para Momento:
+        - Rotação horária com sinal negativo
+        - Rotação anti-horária com sinal positivo
+    - Convenção Para Força:
+        - Vetor de baixo para cima: positivo em Y.
+        - Vetor da esquerda para direita: positivo em X.
+- Também chamado de Momento Fletor ou Momento de Inclinação
+- M = F . b
+- M = F . d . sen(a)

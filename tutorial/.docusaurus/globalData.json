@@ -26,11 +26,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "conceitos/dimensionamento-de-fundacoes-superficiais",
-              "path": "/docs/conceitos/dimensionamento-de-fundacoes-superficiais",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "conceitos/efeitos-de-segunda-ordem",
               "path": "/docs/conceitos/efeitos-de-segunda-ordem",
               "sidebar": "tutorialSidebar"
@@ -46,8 +41,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "conceitos/fundacoes",
-              "path": "/docs/conceitos/fundacoes",
+              "id": "conceitos/estrutura",
+              "path": "/docs/conceitos/estrutura",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -58,11 +53,6 @@
             {
               "id": "conceitos/momento-de-inercia",
               "path": "/docs/conceitos/momento-de-inercia",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "conceitos/projeto-e-execucao-de-fundacoes-superficiais",
-              "path": "/docs/conceitos/projeto-e-execucao-de-fundacoes-superficiais",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -161,16 +151,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/docs/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "momento/momento-de-primeira-ordem",
-              "path": "/docs/momento/momento-de-primeira-ordem",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "pesquisa-automacao/industria-4-0",
               "path": "/docs/pesquisa-automacao/industria-4-0",
               "sidebar": "tutorialSidebar"
@@ -233,11 +213,6 @@
             {
               "id": "/category/verificação-da-estabilidade-global",
               "path": "/docs/category/verificação-da-estabilidade-global",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/momento",
-              "path": "/docs/category/momento",
               "sidebar": "tutorialSidebar"
             },
             {

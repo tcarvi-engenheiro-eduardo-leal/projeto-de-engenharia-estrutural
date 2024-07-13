@@ -110,7 +110,7 @@ export default {
           ]
         }
       ],
-      "copyright": "09/07/2024 ©TCARVI"
+      "copyright": "10/07/2024 ©TCARVI"
     },
     "prism": {
       "theme": {
