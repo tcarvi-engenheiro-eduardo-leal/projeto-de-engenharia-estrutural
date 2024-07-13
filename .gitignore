@@ -1,4 +1,12 @@
-.DS_Store
-tutorial/node_modules
-tutorial/package-lock.json
+
+
+
+# TCARVI
 nao_enviar/
+.DS_Store
+node_modules
+build
+.firebaserc
+firebase.json
+yarn.lock
+package-lock.json
