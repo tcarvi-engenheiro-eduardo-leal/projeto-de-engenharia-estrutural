@@ -60,7 +60,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tcarvi-engenheiro-eduardo-leal/conceitos-basicos-de-engenharia-estrutural/edit/main/tutorial/',
+            'https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-engenharia-estrutural/blob/main/tutorial/blog/',
         },
         theme: {
           customCss: './src/css/custom.css',
