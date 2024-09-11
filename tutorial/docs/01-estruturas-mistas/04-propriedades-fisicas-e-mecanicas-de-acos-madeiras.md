@@ -4,8 +4,6 @@
 
 ## Diagrama Tensão-Deformação da Madeira
 
-
-
 - Identificação de cargas atuantes
     - Cargas Permanentes: 
         - Peso próprio da terça
