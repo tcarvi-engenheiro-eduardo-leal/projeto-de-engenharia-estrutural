@@ -1,11 +1,26 @@
 # Conceitos Básicos sobre Estruturas Mistas
 
 ## Estruturas Mistas
-- Referem-se à combinação de diferentes materiais de construção, geralmente concreto e aço, para formar sistemas estruturais que aproveitam as vantagens de cada material.
+- Referem-se à combinação junta, no mesmo elemento estrutural, de diferentes materiais de construção.
+- Geralmente combinação do concreto e do aço, para formar sistemas estruturais que aproveitam as vantagens de cada material.
 - Essas estruturas são amplamente utilizadas em edifícios, pontes, e outras infraestruturas devido à sua eficiência, resistência e durabilidade.
 
-## Principais Características das Estruturas Mistas
+## Estruturas Híbridas
+- Já as estruturas híbridas são a combinação, como elementos estruturais separados, de diferentes materiais estruturais.
+- Por exemplo:
+    - Pode-se usar uma viga apenas de aço. E usar, acima da viga, uma laje de concreto armado. 
+    - Ou pode-se usar um pilar misto e uma viga de concreto armado, em cima de tal pilar misto.
 
+## Cuidados com a parte metálica da estrutura mista
+- A estrutura mista fornece mais proteção contra a corrosão e contra o incêndio, em comparação com o uso de elmentos estruturais apenas metálicos.
+- Para evitar a corrosão do aço, deve-se pintar o aço. Ou deve-se galvanizar o aço.
+    - No processo de galvanização do aço, recobre-se a superfície do aço com uma camada de zinco, em geral obtida pela imersão da peça de aço em grandes cubas de zinco fundido a aproximadamente 450 °C.
+- Embora o aço seja um material incombustível, suas principais propriedades mecânicas degeneram-se consideravelmente em altas temperaturas. 
+    - Devido o calor excessivo, o aço tem prejuízo nas seguintes propriedades mecânicas.
+    - resistência ao escoamento 
+    - módulo de elasticidade
+
+## Principais Características das Estruturas Mistas
 1.	Combinação de Materiais: 
     - Geralmente, o aço é utilizado para resistir aos esforços de tração e flexão, enquanto o concreto é usado para resistir aos esforços de compressão.
     - Essa combinação permite otimizar o desempenho estrutural.
@@ -43,21 +58,6 @@
     - Já o aço deve trabalhar resistindo à tração.
 - Esta diferença só não é tão evidente no Pilar.
 
-### Pilar Misto
-- Normalmente, o aço do pilar misto se apresenta com perfil H.
-- Usa-se também armadura formada por barras redondas nervuradas.
-- Estribos são usados na posição transversal para ligar as barras logitudinais. 
-
-### Viga Mista
-- Já o aço da viga mista se apresenta com perfil I e sustenta uma laje de concreto sobreposta.
-- A união entre a viga mista e a laje mista se dá por conectores de cisalhamento.
-
-### Laje mista:
-- Construída com aço conformado a frio.
-- Sua estrutura metálica possui sessão trapezoidal.
-- Sua parte metálica se localiza na parte de baixo.
-- Na laje mista, a parte metálica trabalha embaixo, como armadura positiva.
-
 ## Conceitos
 - **Estribo**:
     - Material metálico em forma de filamento dobrado como retângulo e
@@ -74,3 +74,5 @@
         - Viga feita apenas com metal e pilar feito com concreto armado.
         - Viga feita com material misto e pilar feito com concreto armado.
 
+## Parei em:
+- Vídeo de conceitos básicos
