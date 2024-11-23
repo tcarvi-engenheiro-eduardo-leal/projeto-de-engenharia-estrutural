@@ -80,9 +80,8 @@ build/Release
 # dataconnect generated files
 .dataconnect
 
-
 # TCARVI
-nao_enviar/
+nao_enviar
 node_modules
 build
 .firebaserc
