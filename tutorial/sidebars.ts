@@ -17,7 +17,7 @@ const sidebars: SidebarsConfig = {
   // But you can create a sidebar manually
   /*
   tutorialSidebar: [
-    'projeto-de-terraplenagem/objetivos-do-projeto',
+    'projeto-de-terraplenagem/objetivos',
     'hello',
     {
       type: 'category',
