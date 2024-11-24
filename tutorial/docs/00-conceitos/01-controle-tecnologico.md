@@ -1,7 +1,5 @@
-# Conceitos
+# Controle Tecnológico
 
-
-- Controle tecnológico
 - Processo Executivo
 - De Estruturas de Concreto
 
