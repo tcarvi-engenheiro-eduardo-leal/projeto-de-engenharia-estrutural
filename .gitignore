@@ -88,3 +88,4 @@ build
 firebase.json
 yarn.lock
 package-lock.json
+katex
