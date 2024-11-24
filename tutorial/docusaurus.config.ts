@@ -5,32 +5,19 @@ import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
-  title: 'engenharia-estrutural',
-  tagline: '',
+  title: 'Tutoriais de Engenharia Estrutural',
+  tagline: 'tutoriais de Engenharia Estrutural',
   favicon: 'img/favicon.ico',
-
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  url: 'https://engenharia-estrutural.web.app/',
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'tcarvi', // Usually your GitHub org/user name.
-  projectName: 'site', // Usually your repo name.
-
+  organizationName: 'tcarvi-engenheiro-eduardo-leal',
+  projectName: 'site',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
@@ -40,7 +27,6 @@ const config: Config = {
       crossorigin: 'anonymous',
     },
   ],
-
   presets: [
     [
       'classic',
@@ -50,17 +36,13 @@ const config: Config = {
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tcarvi-engenheiro-eduardo-leal/conceitos-basicos-de-engenharia-estrutural/edit/main/tutorial/',
+            'https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-engenharia-estrutural/edit/main/tutorial/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-engenharia-estrutural/blob/main/tutorial/blog/',
+            'https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-engenharia-estrutural/edit/main/tutorial/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -68,14 +50,12 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'engenharia-estrutural',
       logo: {
-        alt: 'engenharia-estrutural Logo',
+        alt: 'engenharia-estrutural',
         src: 'img/logo.svg',
       },
       items: [
@@ -87,7 +67,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/conceitos-basicos-de-engenharia-estrutural',
+          href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-engenharia-estrutural',
           label: 'GitHub',
           position: 'right',
         },
@@ -101,7 +81,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/conceitos/tensao',
+              to: '/docs/category/conceitos-gerais',
             },
           ],
         },
@@ -131,7 +111,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/conceitos-basicos-de-engenharia-estrutural',
+              href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-engenharia-estrutural',
             },
           ],
         },
