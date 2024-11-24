@@ -1,7 +1,15 @@
 # Engenheiro Civil de Estruturas
 
-- Dimensionamento estrutural das peças
-- Deve fornecer, para o Engenheiro Geotécnico de Fundações, as seguintes informações dos pilares (ou paredes estruturais) que deverão ser sustentadas pela fundação:
+## Trabalhos do Engenheiro Civil de Estruturas
+- Executa **análise estrutural** da edificação: 
+	- identificando forças e tensões
+	- calculando forças e tensões
+	- escolhendo solucões de engenharia civil otimizadas para o problema a ser solucionado
+- Executa **dimensionamento dos elementos estruturais**, a partir da análise estrutural.
+- **Armazena memorial dos cálculos e análises executadas**, ou cria scripts para sua reprodução automatizada.
+
+## Informações Produzidas pelo Engenheiro Civil de Estruturas
+- Informações a serem entregues para o Engenheiro Geotécnico de Fundações:
 	- **Cargas verticais permanentes (peso próprio)**:
 		- Incluem o peso das estruturas fixas, como lajes, vigas e pilares, além de revestimentos e acabamentos permanentes.
 	- **Cargas verticais acidentais (sobrecargas)**:
