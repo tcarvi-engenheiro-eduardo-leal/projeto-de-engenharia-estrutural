@@ -1,9 +1,7 @@
 # Concreto Armado
-
 - O concreto, isoladamente, apresenta:
     - boa resistência à compressão (comportamento resistente)
     - baixa resistência à tração (comportamento frágil)
-
 - O concreto armado diminui a fragilidade do concreto à tração, devido ao acréscimo de:
     - barras de aço
     - fios de aço
@@ -34,12 +32,12 @@
     - bio concreto
     - celulas de concreto com calcário
 
-## Concreto armado de Vigas
+## Concreto armado para Vigas
 - Componentes:
 - Armadura longitudinal da parte superior
-    - Área que sofre compressão e que não precisa de tanta armadura.
+    - Área que sofre compressão e que **não precisa de tanta armadura**.
 -Armadura longitudinal da parte inferior
-    - Área que sofre tração e que precisa de armadura passiva ou de armadura ativa (de protensão), para que o Estadio II do elemento estrutural não apresente grau elevado de fissuração.
+    - Área que sofre tração e que **precisa de armadura passiva ou de armadura ativa (de protensão), para que o Estadio II do elemento estrutural não apresente grau elevado de fissuração.**
 - Estribos que fixam toda a armadura longitudinal no interior do elemento estutural.
 
 ## Classes do Concreto
@@ -71,7 +69,7 @@
     - valor de massa específica do concreto armado = valor da massa específica do concreto simples com acrescimo de 100kg/m3 a 150kg/m3.
 
 ## Coeficiente de Dilatação Térmica do Concreto
-- Se testes não identificaram este valor, pode-se considerar 10^(-5) por grau célcius, na análise estrutural.
+- Se testes não identificaram este valor, pode-se considerar $ 10^{-5} $ por grau célcius, na análise estrutural.
 
 ## Resistência à Compressão (fck)
 - Calculado sobre o gráfico de tensão (eixo Y) e deformação (eixo X).
