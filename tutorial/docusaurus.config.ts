@@ -6,17 +6,17 @@ import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
   title: 'Tutoriais de Engenharia Estrutural',
-  tagline: 'tutoriais de Engenharia Estrutural',
+  tagline: 'projeto-de-engenharia-estrutural',
   favicon: 'img/favicon.ico',
   url: 'https://engenharia-estrutural.web.app/',
   baseUrl: '/',
   organizationName: 'tcarvi-engenheiro-eduardo-leal',
-  projectName: 'site',
+  projectName: 'projeto-de-engenharia-estrutural',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt-br',
+    locales: ['pt-br'],
   },
   stylesheets: [
     {

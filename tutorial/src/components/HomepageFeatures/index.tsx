@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Decisões de projeto. Apresentação da fundamentação crítica destas decisões.
+        Escolha a melhor solução de engenharia civil, a partir da análise estrutural.
       </>
     ),
   },
@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Leia, teste e valide o dimensionamento dos Elementos Estruturais! 
+        Leia, teste e valide o dimensionamento de elementos estruturais.
       </>
     ),
   },
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Leia, teste e valide os cálculos do projeto!
+        Leia, teste e valide os cálculos de projeto estrutural.
       </>
     ),
   },
