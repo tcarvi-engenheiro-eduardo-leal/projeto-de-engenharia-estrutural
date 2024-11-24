@@ -1,4 +1,5 @@
 # Efeitos de Segunda Ordem
+
 - Efeitos de segunda ordem referem-se às forças e momentos adicionais que surgem devido às deformações na estrutura quando sujeitas a cargas. Esses efeitos são uma segunda iteração de cálculos, onde as deformações já presentes na estrutura afetam as cargas aplicadas, levando a uma análise mais precisa.
 
 ## Diferença entre efeitos de Primeira Ordem e Efeitos de Segunda Ordem:

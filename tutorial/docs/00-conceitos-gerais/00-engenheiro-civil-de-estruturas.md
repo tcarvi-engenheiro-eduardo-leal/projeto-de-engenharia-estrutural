@@ -1,4 +1,5 @@
-# Engenheiro de Estruturas
+# Engenheiro Civil de Estruturas
+
 - Dimensionamento estrutural das peças
 - Deve fornecer, para o Engenheiro Geotécnico de Fundações, as seguintes informações das vigas que deverão ser sustentadas pela fundação:
 	- **Cargas verticais permanentes (peso próprio)**:

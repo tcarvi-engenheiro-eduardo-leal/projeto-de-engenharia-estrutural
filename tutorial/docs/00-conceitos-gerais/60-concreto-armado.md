@@ -1,4 +1,5 @@
 # Concreto Armado
+
 - O concreto, isoladamente, apresenta:
     - boa resistência à compressão (comportamento resistente)
     - baixa resistência à tração (comportamento frágil)

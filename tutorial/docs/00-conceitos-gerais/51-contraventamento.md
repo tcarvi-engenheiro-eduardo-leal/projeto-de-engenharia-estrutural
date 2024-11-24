@@ -1,4 +1,5 @@
-## Contraventamento
+# Contraventamento
+
 - Sistemas de contraventamento são elementos ou sistemas estruturais projetados para resistir às forças laterais, como ventos fortes ou terremotos, que podem causar movimentos horizontais em edifícios. Esses sistemas ajudam a redistribuir as cargas laterais, protegendo a estrutura principal do edifício e garantindo sua estabilidade e segurança.
 - Uma parte da análise deve ser estática e outra parte deve ser dinâmica.
 - Exemplos:

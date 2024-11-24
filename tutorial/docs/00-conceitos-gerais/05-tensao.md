@@ -1,4 +1,5 @@
 # Tensão
+
 - **Símbolo**: 𝜎
 - **Unidade**: Pascal = N/m^2
 - **Fórmula**:

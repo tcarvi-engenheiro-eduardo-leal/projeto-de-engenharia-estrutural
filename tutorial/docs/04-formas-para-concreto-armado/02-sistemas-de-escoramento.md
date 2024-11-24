@@ -1,7 +1,5 @@
-# Fôrmas para Concreto Armado
-Vídeo 1 até vídeo 2, 28 minutos.
+# Sistemas de Escoramento
 
-Sistemas de escoramento
 Norma 596
 Reescoramento
 Calculo da pressão de concretagem

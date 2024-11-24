@@ -1,4 +1,5 @@
 # Coeficiente de Poisson
+
 - Símbolo:
   - 𝜈
   - ν

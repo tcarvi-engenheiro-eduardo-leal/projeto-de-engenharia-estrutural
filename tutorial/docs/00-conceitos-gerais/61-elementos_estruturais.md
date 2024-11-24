@@ -1,4 +1,5 @@
-#### Elements (estruturais e não-estruturais)
+# Elementos estruturais
+
 - Estruturas lineares:
     - Eixos verticais / Colunas / Pilares 
     - Eixos horizontais / Vigas

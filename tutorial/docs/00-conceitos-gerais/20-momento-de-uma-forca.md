@@ -1,4 +1,5 @@
-# Momento de uma força
+# Momento de uma Força
+
 O Momento de primeira ordem trata da tendência de rotação de uma superfície em relação a um “eixo" de seu plano definido no momento do cálculo. Para alcançar tal conceito de momento, parto de definições mais básicas e depois reformula o contexto para o momento de primeira ordem.
 Considerando:
 Um corpo sólido no ambiente tridimensional. Corpo nomeado com C.

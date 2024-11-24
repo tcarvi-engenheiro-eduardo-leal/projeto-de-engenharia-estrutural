@@ -1,4 +1,5 @@
 # Centro de Massa
+
 ## Centro de massa para 2 partículas:
 ![](../img/centro-de-massa-duas-particulas.png)  
 - Sendo

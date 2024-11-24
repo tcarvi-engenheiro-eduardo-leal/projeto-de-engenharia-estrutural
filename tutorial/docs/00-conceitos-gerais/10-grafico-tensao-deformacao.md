@@ -1,4 +1,5 @@
 # Gráfico de Tensão - Deformação
+
 - Um elemento estrutural, sendo tracionado, pode ter seu comportamento de deformação descrito no gráfico Tensão vs Deformação.  
 - A primeira fase do gráfico caracteriza o comportamento elástico da deformação.
     - Nesta fase, se ocorrer aa diminuição da força de tração, o corpo ainda volta para o estado inicial de deformação, sem resquício da deformação anterior.

@@ -1,4 +1,5 @@
 # Módulo de Elasticidade
+
 - Símbolo: ***E***
 - Unidade: **Pascal**, pois a deformação é adimensional.
 - Também conhecido como **Módulo de Young** ou **Módulo de Elasticidade Longitudinal**.
