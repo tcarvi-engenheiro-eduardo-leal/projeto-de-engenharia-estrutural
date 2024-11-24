@@ -1,4 +1,6 @@
-# Estruturas Reticuladas de Treliças Metálicas
+# Conceitos
+
+## Estruturas Reticuladas de Treliças Metálicas
 - Uma estrutura reticulada de treliças metálicas é um sistema construtivo composto por elementos lineares (barras metálicas) dispostos em um arranjo reticulado tridimensional.
 - Esse tipo de estrutura é amplamente utilizado na engenharia civil e arquitetura devido à sua eficiência em suportar cargas, sua capacidade de vencer grandes vãos sem apoios intermediários e sua leveza comparada a outros sistemas construtivos.
 

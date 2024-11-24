@@ -1,6 +1,5 @@
 {
-  "label": "Estruturas Mistas",
-  "position": 2,
+  "label": "Verificação da Estabilidade Global",
   "link": {
     "type": "generated-index",
     "description": "5 minutes to learn the most important Docusaurus concepts."
