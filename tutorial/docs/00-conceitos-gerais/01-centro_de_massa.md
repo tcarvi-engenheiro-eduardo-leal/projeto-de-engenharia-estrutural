@@ -1,17 +1,19 @@
 # Centro de Massa
-
-## Centro de massa para 2 partículas:
-![](../img/centro-de-massa-duas-particulas.png)  
-- Sendo
-    - X(com): posição, no eixo X, do centro de massa do sistema m1-m2
-    - m1: massa do corpo 1
-    - m2: massa do corpo 2
-    - x1: posição, no eixo X, do corpo 1
-    - x2: posição, no eixo X, do corpo 2
-
+- O centro de massa de uma estrutura é o ponto em que o peso do sistema pode ser considerado concentrado, para fins de análise estática e dinâmica.
+- No caso de uma distribuição uniforme de massa, o centro de massa coincidirá com o centro geométrico. 
+- Quando a distribuição de massa não é uniforme, ele será deslocado em direção às regiões mais pesadas.
+- Fórmula no ambiente de 3 dimensões:
+    - Para sistema de 2 massas pontuais:
+        - $ x_{c \, m} = \frac{x_{massa1} + x_{massa2}}{massa1 + massa2} $
+        - $ y_{c \, m} = \frac{y_{massa1} + y_{massa2}}{massa1 + massa2} $ 
+        - $ z_{c \, m} = \frac{z_{massa1} + z_{massa2}}{massa1 + massa2} $ 
 
 ## Centro de massa para muitas partículas:
-![](../img/centro-de-massa-muitas-particulas.png)  
+- Fórmula no ambiente de 3 dimensões:
+    - Para sistema de 2 massas pontuais:
+        - $ x_{c \, m} = \frac{x_{massa1} + x_{massa2} + x_{massa} ... + x_{massaN}}{massa1 + massa2 + massa3 + ... + massaN} $
+        - $ y_{c \, m} = \frac{y_{massa1} + y_{massa2} + y_{massa} ... + y_{massaN}}{massa1 + massa2 + massa3 + ... + massaN} $
+        - $ z_{c \, m} = \frac{z_{massa1} + z_{massa2} + z_{massa} ... + z_{massaN}}{massa1 + massa2 + massa3 + ... + massaN} $
 - Sendo
     - X(com): posição, no eixo X, do centro de massa do sistema m1-m2-m3...mn
     - m1: massa do corpo 1
