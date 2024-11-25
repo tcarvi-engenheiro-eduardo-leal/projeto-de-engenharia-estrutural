@@ -10,7 +10,7 @@
         - Pórticos treliçados
     - Núcleos de Concreto Armado ou Metálico: Núcleos são elementos verticais robustos feitos de concreto armado ou aço, que atravessam todo o edifício desde a fundação até o topo. Eles são projetados para resistir às forças de vento e sismo, proporcionando estabilidade e rigidez à estrutura global do edifício.
         - Núcleos rígidos
-        - **Núcleo Hexagonal do Edifeicio Burj Khalifa**
+        - **Núcleo Hexagonal do Edifício Burj Khalifa**
             - Todos os elevadores se encontram dentro deste núcleo hexagonal
     - Sistemas de Muros de Corte: Esses sistemas utilizam paredes ou muros robustos e altamente resistentes, projetados para resistir a forças laterais. Podem incluir paredes de concreto reforçado, paredes de alvenaria reforçada, ou até mesmo paredes de cortina de vidro reforçadas estruturalmente.
     - Estrutura de Aço com Contraventamento em X ou V: Em estruturas de aço, os contraventamentos em forma de X ou V são comuns. Estes são arranjos de barras diagonais que conectam os elementos da estrutura, oferecendo resistência contra movimentos laterais. Podem ser visíveis externamente ou integrados internamente na estrutura.
