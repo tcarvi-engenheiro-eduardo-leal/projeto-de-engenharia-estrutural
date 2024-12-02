@@ -15,7 +15,7 @@
 	- momentos das forças, e 
 	- deslocamentos dos elementos estruturais.
 - Escolher:
-	- solucões otimizadas de engenharia civil para o problema a ser solucionado.
+	- solucões otimizadas de engenharia civil.
 
 ### Dimensionamento dos Elementos Estruturais
 - Executar:
