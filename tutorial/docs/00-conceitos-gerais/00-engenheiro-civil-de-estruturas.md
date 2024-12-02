@@ -25,34 +25,36 @@
 - Ou criar scripts para a reprodução automatizada do cálculos e análises.
 
 ## Informações Produzidas pelo Engenheiro Civil de Estruturas
-- Para entreger ao Engenheiro Geotécnico de Fundações:
-	- **Cargas verticais permanentes**:
-		- Peso próprio das estruturas fixas, como lajes, vigas e pilares, além de revestimentos e acabamentos permanentes.
-		- Peso de equipamentos fixos.
-		- Peso da água em piscinas ou em reservatórios.
-	- **Cargas horizontais permanentes** (podem ter ângulo de ação inclinado):
-		- Empuxo devido o tensão proveniente da terra e de outros materiais granulosos.
-		- Empuxo devido o tensão proveniente de corpos de líquidos.
-	- **Cargas verticais variáveis normais**:
-		- Cargas geradas pelo uso do edifício (sobrecargas):
-			- Peso de pessoas,
-			- Peso de mobiliário,
-			- Peso de equipamentos e
-			- Peso de outros itens móveis.
-		- Peso de coberturas.
-		- Peso de barreiras.
-		- Peso de guarda-corpos.
-		- Peso de parapeitos.
-		- Peso de divisórias móveis.
-		- Peso de pressões hidrostáticas e hidroninâmicas em tubulações.
-	- **Cargas horizontais variáveis** (podem ter ângulo de ação inclinado):
-		- Ações de vento.
-		- Acões de movimento da terra (terremoto ou sismo) em contato com a edificação, devido movimento tectônico.
-		- Ações de mudanca de temperatura.
-	- **Carga variável especial**:
-		- Carga que ramente será gerada para a estrutura, por isso: especial, mas que podem ocorrer, não devendo gerar grandes consequências para a estutura.
+- Para entregar ao Engenheiro Geotécnico de Fundações:
+	- **Cargas Permanentes**:
+		- **Cargas permanentes verticais**:
+			- Peso próprio das estruturas fixas, como lajes, vigas e pilares, além de revestimentos e acabamentos permanentes.
+			- Peso de equipamentos fixos.
+			- Peso da água em piscinas ou em reservatórios.
+		- **Cargas permanentes horizontais** (podem ter ângulo de ação inclinado):
+			- Empuxo devido o tensão proveniente da terra e de outros materiais granulosos.
+			- Empuxo devido o tensão proveniente de corpos líquidos.
+	- **Cargas Variáveis**:
+		- **Cargas variáveis verticais, do tipo normal**:
+			- Cargas geradas pelo uso do edifício (sobrecargas):
+				- Peso de pessoas,
+				- Peso de mobiliário,
+				- Peso de equipamentos e
+				- Peso de outros itens móveis.
+			- Peso de coberturas.
+			- Peso de barreiras.
+			- Peso de guarda-corpos.
+			- Peso de parapeitos.
+			- Peso de divisórias móveis.
+			- Peso de pressões hidrostáticas e hidroninâmicas em tubulações.
+		- **Cargas variáveis horizontais, do tipo normal** (podem ter ângulo de ação inclinado):
+			- Cargas devido ao vento.
+			- Cargas devido de movimento da terra (terremoto ou sismo) em contato com a edificação, devido movimento tectônico.
+			- Cargas devido de mudanca de temperatura.
+		- **Carga variável especial**:
+			- Carga que ramente será gerada para a estrutura, por isso: especial, mas que podem ocorrer, não devendo gerar grandes consequências para a estutura.
 	- **Carga excepcional**:
-		- Carga que muito dificilmente ocorrerá na esturura, mas que podem ocorre e que devem gerar efeitos catastróficos para a estrutura.
+		- Carga que muito dificilmente ocorrerá na esturura, mas que podem ocorrer e que geram efeitos catastróficos para a estrutura.
 			- Choques de veículos
 			- Choque de equipamentos
 			- Explosões
@@ -62,11 +64,14 @@
 	- **Cargas dinâmicas (se aplicável)**:
 		- Caso o edifício abrigue máquinas, equipamentos em movimento ou atividades que gerem vibrações, acelererações significativas dos elementos estruturais, essas cargas também devem ser especificadas.
 	- **Momentos gerados pelas cargas indicadas, nas ligações entre a Fundação e a Estrutura**:
-		- Momentos aplicados pelos pilares ou pelas paredes de alvenaria, no ponto de conexão com a fundação, e que são resultados de cargas excêntricas ou de cargas que geram deslocamentos laterais.
-			- Momento Fletor no plano horizontal (X-0-Y)
-			- Momento Torsor, ao redor de eixo vertical ou inclinado. (0-Z ou 0-Z inclinado)
-			- Momento de Tombamento
-	- Apresentação gráfica dos cálculos
-		- Planta com indicação do local das cargas da estrutura na ligação com a fundação.
-		- Planta com indicação do local dos momentos das cargas da estrutura na ligação com a fundação.
-		- Diagrama de Momentos e de Forças Cortantes, ao longo dos elementos estuturais que agem na ligação da estrutura com a fundação.
+		- Momentos aplicados pelas cargas da edificação, no ponto de conexão com a fundação, e que são resultados de cargas excêntricas ou de cargas que geram deslocamentos laterais.
+			- **Momento Fletor** no plano horizontal (X-0-Y)
+			- **Momento Torsor**, ao redor de eixo vertical ou inclinado. (0-Z ou 0-Z inclinado)
+			- **Momento de Tombamento**
+	- **Apresentação gráfica das Forças e dos Momentos**
+		- Indicação gráfica dos **locais dos pilares e das paredes de alvenaria estrutural**, junto com a **indicação de seus eixos estruturais**.
+		- Planta com indicação do **local das cargas da estrutura**, nos locais da ligação com a fundação.
+		- Planta com indicação do **local dos momentos das cargas da estrutura**, nos locais da ligação com a fundação.
+		- **Diagrama de Momentos e de Forças**, ao longo dos elementos estuturais que agem nos locais da ligação com a fundação.
+	- Relato sobre **restrições ou particularidades para a fundação** a ser projetada, como a rigidez da fundação ou o tipo de solo. 
+
