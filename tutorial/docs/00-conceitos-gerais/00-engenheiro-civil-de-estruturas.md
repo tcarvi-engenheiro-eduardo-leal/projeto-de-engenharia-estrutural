@@ -62,5 +62,11 @@
 	- **Cargas dinâmicas (se aplicável)**:
 		- Caso o edifício abrigue máquinas, equipamentos em movimento ou atividades que gerem vibrações, acelererações significativas dos elementos estruturais, essas cargas também devem ser especificadas.
 	- **Momentos gerados pelas cargas indicadas, nas ligações entre a Fundação e a Estrutura**:
-		- Informações sobre os momentos aplicados nos pilares ou nas paredes de alvenaria, no ponto de conexão com a fundação, e que são resultados de cargas excêntricas ou de cargas que geram deslocamentos laterais.
-
+		- Momentos aplicados pelos pilares ou pelas paredes de alvenaria, no ponto de conexão com a fundação, e que são resultados de cargas excêntricas ou de cargas que geram deslocamentos laterais.
+			- Momento Fletor no plano horizontal (X-0-Y)
+			- Momento Torsor, ao redor de eixo vertical ou inclinado. (0-Z ou 0-Z inclinado)
+			- Momento de Tombamento
+	- Apresentação gráfica dos cálculos
+		- Planta com indicação do local das cargas da estrutura na ligação com a fundação.
+		- Planta com indicação do local dos momentos das cargas da estrutura na ligação com a fundação.
+		- Diagrama de Momentos e de Forças Cortantes, ao longo dos elementos estuturais que agem na ligação da estrutura com a fundação.
