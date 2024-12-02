@@ -4,21 +4,21 @@
 
 ### Executar Análise Estrutural 
 - Identificar:
-	- forças, 
-	- tensões e 
-	- momentos das forças identificadas.
+	- **forças**, 
+	- **tensões** e 
+	- **momentos** das forças identificadas.
 - Calcular:
-	- forças resultantes,
-	- tensões de tração, 
-	- tensões de compressão, 
-	- tensões de cisalhamento, 
-	- momentos das forças, e 
-	- deslocamentos dos elementos estruturais.
+	- **forças resultantes**,
+	- **tensões de tração**, 
+	- **tensões de compressão**, 
+	- **tensões de cisalhamento**, 
+	- **momento das forças**.
 - Escolher:
-	- materiais e geometrias otimizadas para estruturas de engenharia civil.
+	- **materiais** e **geometrias** otimizadas para estruturas de engenharia civil.
 
 ### Executar Dimensionamento dos Elementos Estruturais
 - **Dimensionar os elementos estruturais**, a partir da análise estrutural.
+- Calcular o **deslocamento dos elementos estruturais**.
 
 ### Documentar Memorial de Cálculos
 - **Armazenar memorial dos cálculos e análises formuladas.**
