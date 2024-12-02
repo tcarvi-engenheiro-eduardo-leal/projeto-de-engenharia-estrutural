@@ -28,12 +28,14 @@
 - Em situações reais, as fórmulas anteriores representam apenas aproximações pois normalmente:
     - Lidamos com sistemas de muitos corpos sólidos diferentes,
     - Cada um destes corpos diferentes possuem densidade diferentes, inclusive entre suas partes internas,
-    - Não temos a posição exata dos Centro de Massa destes diferentes corpos.
+    - Não temos a posição exata do Centro de Massa destes diferentes corpos.
 - Logo, acabamos por errar quando multiplicamos a posição e a massa de cada corpo. (usamos medidas equivocadas)
 - Apenas se o corpo for simétrico, se a densidade é sempre a mesma e se nós temos realmente o ponto central da geometria (também igual, neste caso, ao centro de massa), nossos cálculos estariam certos.
-- Para contornar estas dificuldades de cálculo, devemos tentar usar figuras geométricas simples para as quais podemos calcular o centro geométrico. E devemos usar materiais que náo apresentam considerável diferença de densidade, entre suas partes. Náo devemos utilizar estruturas muitos complexas, pois os cálculos se tornarão muito imprecisos.
+- Para contornar estas dificuldades de cálculo, devemos tentar usar figuras geométricas simples para as quais podemos calcular o centro geométrico. E devemos usar materiais que não apresentam considerável diferença de densidade, entre suas partes. Não devemos utilizar estruturas muitos complexas, pois os cálculos se tornarão muito imprecisos.
+- Mas, tendo este conhecimento e esta preocupação, e tendo as Normas ABNT/NBR de Engenharia Civil como referência, podemos fazer os cálculos de Centro de Massa.
 
 ## Centro de massa de um corpo considerado como sólido de infinitos pontos
+- ( A reler ... e criar script ...)
 - Para encontrar o centro de massa $ x_{cm} $ de um corpo unidimensional ao longo de uma linha ou eixo, consideramos que o corpo é dividido em pequenos segmentos infinitesimais, cada um com massa  $ \Delta m $ localizada em uma posição x . 
 - Matematicamente, temos:
     - $ x_{c \, m} = \frac{\int x \, dm}{\int dm} $ 
@@ -55,6 +57,7 @@
     - Esta é a única fórmula correta para encontrarmos, com bom nível de precisão, o Centro de Massa de elementos irregulares.
 
 ## Centro de massa de um corpo pelo volume do corpo, considerado sua densidade como uniforme
+- ( A reler ... e criar script ...)
 - Consideramos apenas corpos uniformes que possuem densidade uniforme. 
 - A densidade se mantem por todo o corpo.
 - Cada parte do corpo tem uma massa (dm) e também um volume (dV).
