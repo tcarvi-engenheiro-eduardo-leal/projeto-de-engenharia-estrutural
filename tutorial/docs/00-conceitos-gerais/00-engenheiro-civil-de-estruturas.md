@@ -1,27 +1,26 @@
 # Engenheiro Civil de Estruturas
 
-## Trabalhos do Engenheiro Civil de Estruturas
+## Trabalhos do Engenheiro Civil de Estruturas:
 
-### Análise Estrutural 
+### Executar Análise Estrutural 
 - Identificar:
 	- forças, 
 	- tensões e 
 	- momentos das forças identificadas.
 - Calcular:
-	- forças resultantes
+	- forças resultantes,
 	- tensões de tração, 
 	- tensões de compressão, 
 	- tensões de cisalhamento, 
 	- momentos das forças, e 
 	- deslocamentos dos elementos estruturais.
 - Escolher:
-	- solucões otimizadas de engenharia civil.
+	- materiais e geometrias otimizadas para estruturas de engenharia civil.
 
-### Dimensionamento dos Elementos Estruturais
-- Executar:
-	- **Dimensionamento dos elementos estruturais**, a partir da análise estrutural.
+### Executar Dimensionamento dos Elementos Estruturais
+- **Dimensionar os elementos estruturais**, a partir da análise estrutural.
 
-### Memorial de Cálculos
+### Documentar Memorial de Cálculos
 - **Armazenar memorial dos cálculos e análises formuladas.**
 - Ou criar scripts para a reprodução automatizada do cálculos e análises.
 
