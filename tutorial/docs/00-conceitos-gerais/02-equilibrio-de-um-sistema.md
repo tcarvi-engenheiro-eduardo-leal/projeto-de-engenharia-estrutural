@@ -1,1 +1,0 @@
-# Equilíbrio de um Sistema
