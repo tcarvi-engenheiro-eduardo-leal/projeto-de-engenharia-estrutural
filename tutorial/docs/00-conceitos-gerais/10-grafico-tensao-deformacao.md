@@ -14,3 +14,12 @@
     - É a tangente do ângulo da curva de Tensão-Deformação sobre o eixo da deformação.
     - Quanto mais se aumenta a deformação, para um mesmo intervalo de aumento da tensão, tem-se um menor ângulo no gráfico. Ou seja, tem-se "Menor Módulo de Elasticidade", ou seja "Menor Módulo de Young".
 
+- Comportamento elástico conforme gráfico do primeiro grau:
+    - $ y = a \, x + b $ 
+    - $ \sigma = a \, x + b $
+    - $ \sigma = E \, \epsilon + 0 $
+    - $ \sigma = E \, \epsilon $
+        - Sendo: 
+            - $ \sigma $ := a tensão
+            - $ E $ := o módulo de elasticidade
+            - $ \epsilon $ : a deformação

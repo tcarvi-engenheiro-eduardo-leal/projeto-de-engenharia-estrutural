@@ -14,6 +14,7 @@
 - Assim, deve-se estimar também a diminuição provável da capacidade de resistência dos elementos estruturais. 
 - O equilíbrio, mesmo diante da diminuição da capacidade de resistência dos elementos estruturais, deve ser mantido durante toda a vida útil da edificação.
 
+
 ## Preocupação com as Prescrições das Normas ABNT/NBR para os Cálculos
 - Para que se alcance o equilíbrio, durante toda a vida útil da edificação, deve-se usar as prescrições das normas ABNT/NBR, na mensuração das cargas e no cálculo das reações.
 - Deve-se obrigatoriamente considerar os coeficientes de segurança para a quantificação das reações e deve-se considerar as majorações exigidas para as cargas da edificação. 

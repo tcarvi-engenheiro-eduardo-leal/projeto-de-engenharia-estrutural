@@ -13,9 +13,9 @@
 - Na parte superior da laje.
 - No eixo vertical do pilar.
 
-## Forca de Torção
+## Força de Torção
 - No plano transversal ao eixo da viga.
 - No plano transversal ao eixo do pilar.
 
 ## Força Resultante
-- Estimativa da somatória vetorial de cargas em um ponto, uma área ou em um eixo específico.
+- Estimativa da somatória vetorial de cargas em um ponto ou em um eixo específico.

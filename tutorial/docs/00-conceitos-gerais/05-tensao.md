@@ -1,29 +1,39 @@
 # Tensão
-
-- **Símbolo**: 𝜎
-- **Unidade**: Pascal = N/m^2
+- **Símbolo**: $ \sigma $ (sigma)
+- **Unidade**: Pascal (Pa) = $ \frac{N}{m^2} $
+    - **1 Pascal é definido como a força de 1 newton aplicada uniformemente sobre uma área de 1 metro quadrado**:
+    - Em engenharia civil, usa-se **Megapascal (MPa)**:
+        - 1 MPa é equivalente a 1 milhão de pascals:
+        - $ 1 \, MPa = 10^6 \, Pa = 1 \, \frac{MN}{{m}^2} $
 - **Fórmula**:
-    - Força sobre área: 
-    - 𝜎 = F / A  
+    - $ \sigma = \frac{F}{A} $
+        - Sendo:
+            - $ \sigma $ := a **tensão aplicada**.
+            - $ F $ := a **força aplicada**.
+            - $ A $ := a **área da aplicação da força**.
 - **English translation**: stress
-- **Tensão normal**
-    - Tensão = ( força axial ) / ( área da seção ortogonal à força axial )
-- **Tensão de cisalhamento**
-    - Tensão = ( força de cisalhamento ) / ( área do corte longitudinal à força não axial )
-- **Tensão de tração**:
-    - Tensão normal que puxa, tracionando, o eixo do elemento que recebe a força.
-     - Este estado de tensão pode ser resultado de uma combinação de cargas. 
-- **Tensão de compressão**:
-    - Tensão normal que empurra, comprimindo, o eixo do elemento que recebe a força.
-    - Este estado de tensão pode ser resultado de uma combinação de cargas. 
+- **Tensão Normal**
+    - $ \text{Tensão Normal} = \frac{ \text{força axial} }{ \text{área da seção ortogonal à força axial} }$
+        - **Tensão de tração**:
+            - Tensão normal que puxa, tracionando, o eixo do elemento que recebe a força.
+            - Este estado de tensão pode ser resultado de uma combinação de cargas. 
+        - **Tensão de compressão**:
+            - Tensão normal que empurra, comprimindo, o eixo do elemento que recebe a força.
+            - Este estado de tensão pode ser resultado de uma combinação de cargas. 
+        - **Tensão de flexão**:
+            - Tensão normal de compressão que gera flexão do eixo.
+            - Este estado de tensão pode ser resultado de uma combinação de cargas. 
+- **Tensão de Cisalhamento**
+    - $ \text{Tensão de Cisalhamento} = \frac{ \text{força cortante} }{ \text{área da seção transversal ao eixo do elemento que sofre a tensão} }$ 
+    - Força age sobre o eixo do elemento estrutural, mas no sentido transversal, não no sentido longitudinal da tensão normal.
 - **Tensão de torção**:
-    - Tensão que gera rotacão do corpo em torno de seu eixo longitudinal.
-    - Ocorre com duas forças paralelas e de sentido oposto, localizadas nos dois extremos que sofrem a forca tangencial de rotação. A área mais interna do corpo, e todo o restante, sofre tensão de torção.
-    - Este estado de tensão pode ser resultado de uma combinação de cargas. 
-- **Tensão de flexão**:
-    - Tensão normal que gera flexão do eixo
+    - Tensão que gera **rotacão do corpo em torno de seu eixo longitudinal**.
+    - Força **não é direcionada para o eixo do elemento estrutural**.
+    - Força é **direcionada para ponto acima ou abaixo da linha do eixo do elemento estrutural**.
+    - Também pode ocorrer com a **incidência de duas forças paralelas e de sentido oposto, localizadas nos dois extremos do elemento que sofre a força tangencial de rotação**. A área mais interna do corpo, e todo o restante, sofre tensão de torção.
     - Este estado de tensão pode ser resultado de uma combinação de cargas. 
 - **Transformação de estados multiaxiais de tensão**:
+    - A analisar mais detalhadamente ...
     - Transformação por deformação
         - Teorias de falha
     - Efeitos internos em um corpo maciço, devido a tensão.
