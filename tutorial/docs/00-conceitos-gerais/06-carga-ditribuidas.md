@@ -1,1 +1,0 @@
-# Cargas Distribuídas

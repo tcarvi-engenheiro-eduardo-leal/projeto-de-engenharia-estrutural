@@ -133,19 +133,7 @@ alta umidade relativa do ar, ambientes poluídos com vapores ácidos, orla marí
 
 ## Tensões e deformações
 - Assim, obtêm-se diagramas de tensão versus deformação como o mostrado simplificadamente abaixo, em que o material está , que se subdivide nas fases de escoamento e encruamento.
-- Gráfico Tensão-Deformação:
-    - Inicialmente em regime elástico e, depois, em regime plástico.
-    - Regime Elástico:
-        - No regime elástico, se a tensão parar de ser aplicada, o corpo volta para o estado inicial.
-            - Em Engenharia Civil, o **alongamento unitário** de uma barra metálica, também chamado de **deformação específida** de uma barra metálica, é definido como:
-                - $ \epsilon \, (específica) = \frac{\Delta \, l}{l_0}$
-        - O Módulo de elasticidade "$ E $" é praticamente igual para todos os tipos de aço, variando entre: 200.000 < E < 210.000 MPa.
-    - Regime Plástico
-        - No regime plástico, se a tensão parar de ser aplicada, o corpo parará de ser alongado e pode voltar um pouco ao estado anterior, mas não voltará mais para o estado inicial.
-        - Há duas fases:
-            - Fase de escoamento, em que, mesmo sem grande aumento de tensão, o corpo se alonga escoando.
-            - Fase de encruamento, em que, a tensão necessária para aumentar a deformação aumenta, e forma-se um encurtamento na espessura do corpo. Depois de certo encruamento, inicia-se a estrição, quando o corpo torna-se fino e a tensão necessária para a ruptura torna-se menor do que a tensão anterior à estricção.
-            - A ruptura ocorra no final da fase de encruamento, no final da sua estricção.
+- O Módulo de elasticidade "$ E $" é praticamente igual para todos os tipos de aço, variando entre: 200.000 < E < 210.000 MPa.
 - Ensaios de tração simples
     - Determinação do gráfico Tensão vs Deformação.
     - Medir propriedade mecânicas dos aços.
