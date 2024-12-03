@@ -15,7 +15,7 @@
 - Tubulão
 
 ## Estruturas de superfície
-- Lajes
+- Laje
 - Fundação Radier
 - Parede Estrutural
 
