@@ -3,8 +3,7 @@
 - Símbolo: ***E***
 - Unidade: **Pascal**, pois a deformação é adimensional.
 - Também conhecido como **Módulo de Young** ou **Módulo de Elasticidade Longitudinal**.
-- É uma medida da **relação entre a tensão (força aplicada por unidade de área) e a deformação (mudança na forma ou tamanho) de um material elástico linear dentro do limite de elasticidade**.
-    - **Relação linear entre a tensão 𝜎 e a deformação 𝜖 de um material que está sujeito a um esforço**. 
+- Medida da **relação linear** entre a **tensão 𝜎** e a **deformação 𝜖** de um material que está sujeito a um esforço, **dentro do limite de elasticidade do material**. 
 - Matematicamente, isso é expresso pela fórmula:  
     - $ \text{tangente do ângulo do gráfico de tensão-deformação}  = \frac{\text{cateto oposto}}{\text{cateto adjacente}} $
     - $ \text{E} = \frac{\sigma}{\epsilon} $  
@@ -12,8 +11,7 @@
         - $ \text{E} $ é o módulo de elasticidade (em Pascals ou unidades de pressão utilizada para a tensão).
         - $ \sigma $ é a tensão aplicada (em Pascals).
         - $ {\epsilon} $ é a deformação resultante (adimensional).
-- Parâmetro que representa uma **medida da rigidez ou da elasticidade de um material**.
-    
+- Parâmetro que representa uma **medida da rigidez** ou **medida da elasticidade** de um material.
 
 ## Descrição da rigidez de um Material
 - O módulo de elasticidade **serve para descrever a rigidez de um material**, considerando sua deformação **na fase elástica do gráfico tensão-deformação**:
