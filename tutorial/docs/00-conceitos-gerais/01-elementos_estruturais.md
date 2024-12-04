@@ -1,24 +1,24 @@
 # Elementos estruturais
 
-## Estruturas lineares:
-- Eixos verticais / Colunas / Pilares 
+## Estruturas com forma de linha:
+- Eixos verticais / Pilares 
 - Eixos horizontais / Vigas
 - Eixos oblíquos
 - Treliças
     - Junções de eixos metálicos
 - Cabos:
-    - Estruturas pênseis (forças verticais)
-    - Estruturas estaiadas (forças oblíquas)
+    - Estruturas pênseis (que apresentam forças de sustentação verticais)
+    - Estruturas estaiadas (que apresentam forças de sustentação oblíquas)
 - Arcos 
-- Viga Baldrame
-- Estacas
-- Tubulão
+- Viga Baldrame (Fundação)
+- Estacas (Fundação)
 
-## Estruturas de superfície
+## Estruturas com forma de superfície:
 - Laje
-- Fundação Radier
+- Radier (Fundação)
 - Parede Estrutural
 
-## Estruturas de volume
-- Sapata
+## Estruturas com forma de volume no espaço 3D:
+- Sapata (Fundação)
 - Bloco de Fundação
+- Tubulão (Fundação)
