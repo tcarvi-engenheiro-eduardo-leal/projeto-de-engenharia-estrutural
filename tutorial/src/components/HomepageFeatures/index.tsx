@@ -13,9 +13,11 @@ const FeatureList: FeatureItem[] = [
     title: 'Análise Estrutural',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
-      <>
-        Escolha a melhor solução de engenharia civil, a partir da análise estrutural.
-      </>
+      <p>
+        Identifique e desenhe todas as cargas da edificação.<br></br>
+        Calcule as cargas relevantes.<br></br>
+        Escolha a melhor solução de engenharia estrutural para sua edificação.
+      </p>
     ),
   },
   {
@@ -23,7 +25,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Leia, teste e valide o dimensionamento de elementos estruturais.
+        Posicine e dimensione a geometria dos elementos estruturais.<br></br>
+        Identifique a exigência de resistência do material utilizado.<br></br>
+        Dimensione o volume de concreto e de aço dos elementos estruturais.
       </>
     ),
   },
@@ -32,7 +36,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Leia, teste e valide os cálculos de projeto estrutural.
+        Armazene todos os cálculos e análises feitas.<br></br>
+        Use scripts para automatizar e replicar os cálculos estruturais.<br></br>
+        Use scripts para gerar gráficos das análises.
       </>
     ),
   },
