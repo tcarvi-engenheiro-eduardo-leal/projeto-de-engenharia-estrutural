@@ -90,7 +90,7 @@ const config: Config = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/users/26135239/tcarvi-engenheiro-eduardo-leal?tab=questions',
             },
             {
               label: 'YouTube',
