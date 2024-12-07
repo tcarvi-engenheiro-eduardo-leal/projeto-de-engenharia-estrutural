@@ -38,7 +38,7 @@ const FeatureList: FeatureItem[] = [
       <>
         Armazene todos os cálculos e análises feitas.<br></br>
         Codifique scripts para automatizar e replicar os cálculos estruturais.<br></br>
-        Codifique scripts apresentar gráficos das análises.
+        Codifique scripts para apresentar gráficos das análises.
       </>
     ),
   },
