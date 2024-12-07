@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <p>
         Identifique e desenhe todas as cargas da edificação.<br></br>
-        Calcule as cargas relevantes.<br></br>
+        Calcule o valor das cargas relevantes.<br></br>
         Escolha a melhor solução de engenharia estrutural para sua edificação.
       </p>
     ),
@@ -37,8 +37,8 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Armazene todos os cálculos e análises feitas.<br></br>
-        Use scripts para automatizar e replicar os cálculos estruturais.<br></br>
-        Use scripts para gerar gráficos das análises.
+        Codifique scripts para automatizar e replicar os cálculos estruturais.<br></br>
+        Codifique scripts apresentar gráficos das análises.
       </>
     ),
   },
