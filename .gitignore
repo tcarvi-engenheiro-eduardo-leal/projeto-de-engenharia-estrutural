@@ -89,3 +89,4 @@ firebase.json
 yarn.lock
 package-lock.json
 katex
+.vs
