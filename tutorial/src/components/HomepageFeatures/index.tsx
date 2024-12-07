@@ -26,8 +26,8 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Posicine e dimensione a geometria dos elementos estruturais.<br></br>
-        Identifique a exigência de resistência do material utilizado.<br></br>
-        Dimensione o volume de concreto e de aço dos elementos estruturais.
+        Identifique a capacidade de resistência de cada elemento estrutural planejado.<br></br>
+        Dimensione o volume de concreto e de aço dos elementos estruturais, para atender a necessidade de resistência definida.
       </>
     ),
   },
