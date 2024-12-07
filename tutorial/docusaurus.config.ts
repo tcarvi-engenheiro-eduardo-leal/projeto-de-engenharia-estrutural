@@ -93,12 +93,12 @@ const config: Config = {
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'YouTube',
+              href: 'https://www.youtube.com/channel/UCWA39JV7f68QQ6lZEpMOqIA',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'X',
+              href: 'https://x.com/tcarvi_eduardo',
             },
           ],
         },
