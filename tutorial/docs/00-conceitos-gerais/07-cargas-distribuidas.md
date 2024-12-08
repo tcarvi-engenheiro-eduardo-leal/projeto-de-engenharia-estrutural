@@ -1,3 +1,3 @@
 # Cargas Distribuídas
 
-- A mostrar e descrever
+- A mostrar e descrever ...

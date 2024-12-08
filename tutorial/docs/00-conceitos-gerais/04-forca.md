@@ -4,12 +4,12 @@
 - Entre pilar e viga.
 - Entre viga e laje.
 
-## Força de tração
+## Força de Tração
 - Na parte mais baixa e longitudinal da viga.
 - Na parte mais baixa e central da laje.
 - No eixo longitudinal das barras de uma treliça. 
 
-## Força de compressão
+## Força de Compressão
 - Na parte mais alta e longitudinal da viga.
 - Na parte mais alta e central da laje.
 - Na parte mais baixa do eixo vertical do pilar.
