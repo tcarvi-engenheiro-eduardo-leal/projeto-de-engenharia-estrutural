@@ -4,21 +4,20 @@
 - Eixos verticais / Pilares 
 - Eixos horizontais / Vigas
 - Eixos oblíquos
-- Treliças
-    - Junções de eixos metálicos
+- Barras das Treliças
 - Cabos:
-    - Estruturas pênseis (que apresentam forças de sustentação verticais)
-    - Estruturas estaiadas (que apresentam forças de sustentação oblíquas)
+    - Estruturas pênseis (que apresentam cabos que atuam na sustentação vertical)
+    - Estruturas estaiadas (que apresentam cabos que atuam na sustentação oblíqua)
 - Arcos 
-- Viga Baldrame (Fundação)
-- Estacas (Fundação)
+- Viga Baldrame (elemento de fundação)
+- Estacas (elemento de fundação)
 
 ## Estruturas com forma de superfície:
 - Laje
-- Radier (Fundação)
+- Radier (elemento de fundação)
 - Parede Estrutural
 
 ## Estruturas com forma de volume no espaço 3D:
-- Sapata (Fundação)
-- Bloco de Fundação
-- Tubulão (Fundação)
+- Sapata (elemento de fundação)
+- Bloco de Fundação (elemento de fundação)
+- Tubulão (elemento de fundação)

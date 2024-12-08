@@ -3,6 +3,19 @@
 - No caso de uma distribuição uniforme de massa, o centro de massa coincidirá com o centro geométrico. 
 - Quando a distribuição de massa não é uniforme, o centro de massa tende a se localizar próximo às regiões mais pesadas.
 
+## Dificuldades para a precisão do Centro de Massa
+- Em situações reais, as fórmulas de cálculo da geometria do Centro de Massa representam apenas aproximações, pois normalmente:
+    - Lidamos, em sistemas mais amplos, com muitos corpos sólidos diferentes,
+    - Lidamos, nos sistemas mais simples de elementos estruturais, com misturas não homogêneas entre concreto e aço, por exemplo.
+    - Não temos a posição exata do Centro de Massa destes diferentes corpos.
+- Logo, acabamos por errar quando tentamos calcular o Centro de Massa em Engenharia Civil. (usamos medidas equivocadas)
+- Apenas se o corpo for simétrico, se a densidade for sempre a mesma na sua estrutura, e se nós temos realmente o ponto central da geometria (também igual, neste caso, ao centro de massa), nossos cálculos estariam certos.
+
+## Solução para uma melhor precisão nos cálculos do Centro de Massa
+- Para contornar as imprecisões de cálculo, devemos tentar usar figuras geométricas simples para as quais podemos facilmente calcular o centro geométrico.
+- E devemos usar materiais que não apresentam considerável diferença de densidade, entre suas partes. Não devemos utilizar estruturas muitos complexas, pois os cálculos se tornarão muito imprecisos.
+- Mas, tendo este conhecimento e esta preocupação, e tendo as Normas ABNT/NBR de Engenharia Civil como referência, podemos fazer os cálculos do Centro de Massa.
+
 ## Centro de massa para 2 partículas, no espaço de 3 dimensões:
 - Fórmula:
     - $ x_{c \, m} = \frac{x_{1} \, massa_{1} + x_{2} \, massa_{2}}{massa_{1} + massa_{2} } $
@@ -23,16 +36,6 @@
     - $ \vec{y}_{c \, m} = \frac{\sum_{i=0}^{n}{y_i \times m_i}}{m_1 + ... + m_n} $
     - $ \vec{z}_{c \, m} = \frac{\sum_{i=0}^{n}{z_i \times m_i}}{m_1 + ... + m_n} $
     - $ \vec{r}_{c \, m} = \vec{x}_{c \, m} + \vec{y}_{c \, m} + \vec{z}_{c \, m} $
-
-## Dificuldades para a precisão do cálculo do Centro de Massa
-- Em situações reais, as fórmulas anteriores representam apenas aproximações pois normalmente:
-    - Lidamos com sistemas de muitos corpos sólidos diferentes,
-    - Cada um destes corpos diferentes possuem densidade diferentes, inclusive entre suas partes internas,
-    - Não temos a posição exata do Centro de Massa destes diferentes corpos.
-- Logo, acabamos por errar quando multiplicamos a posição e a massa de cada corpo. (usamos medidas equivocadas)
-- Apenas se o corpo for simétrico, se a densidade é sempre a mesma e se nós temos realmente o ponto central da geometria (também igual, neste caso, ao centro de massa), nossos cálculos estariam certos.
-- Para contornar estas dificuldades de cálculo, devemos tentar usar figuras geométricas simples para as quais podemos calcular o centro geométrico. E devemos usar materiais que não apresentam considerável diferença de densidade, entre suas partes. Não devemos utilizar estruturas muitos complexas, pois os cálculos se tornarão muito imprecisos.
-- Mas, tendo este conhecimento e esta preocupação, e tendo as Normas ABNT/NBR de Engenharia Civil como referência, podemos fazer os cálculos de Centro de Massa.
 
 ## Centro de massa de um corpo considerado como sólido de infinitos pontos
 - ( A reler ... e criar script ...)
