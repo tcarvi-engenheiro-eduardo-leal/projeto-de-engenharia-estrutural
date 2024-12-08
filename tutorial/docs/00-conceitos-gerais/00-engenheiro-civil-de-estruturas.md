@@ -30,7 +30,7 @@
 	- **Cargas permanentes verticais**:
 		- Peso próprio das estruturas fixas, como lajes, vigas e pilares, além de revestimentos e acabamentos permanentes.
 		- Peso de equipamentos fixos.
-		- Peso da água em piscinas ou em reservatórios.
+		- Peso da água em piscinas e em reservatórios.
 	- **Cargas permanentes horizontais** (podem ter ângulo de ação inclinado):
 		- Empuxo devido tensão proveniente da terra e de outros materiais granulosos.
 		- Empuxo devido tensão proveniente de corpos líquidos.
@@ -52,9 +52,10 @@
 		- Cargas devido de movimento da terra (terremoto ou sismo) em contato com a edificação, devido movimento tectônico.
 		- Cargas devido de mudanca de temperatura.
 	- **Carga variável especial**:
-		- Carga que raramente será gerada para a estrutura; por isso, especial, mas que podem ocorrer, não devendo gerar grandes consequências para a estutura.
+		- Cargas que raramente ocorrerem na estrutura, mas que devem ocorrer em algum momento.
+		- Cargas que não devem gerar efeitos graves para a estrutura.
 - **Intensidade e Localização das Cargas Excepcionais**:
-	- Cargas que muito dificilmente ocorrerão na estrutura, mas que podem ocorrer e que geram efeitos catastróficos para a estrutura.
+	- Cargas que dificilmente ocorrerão na estrutura, mas que podem ocorrer e que geram efeitos catastróficos para a estrutura.
 		- Choques de veículos
 		- Choque de equipamentos
 		- Explosões
@@ -65,7 +66,7 @@
 	- Caso o edifício abrigue máquinas, equipamentos em movimento ou atividades que gerem vibrações, acelererações significativas dos elementos estruturais, essas cargas também devem ser especificadas.
 - **Momentos gerados pelas cargas indicadas, nas ligações entre a Fundação e a Estrutura**:
 	- Momentos aplicados pelas cargas da edificação, no ponto de conexão com a fundação, e que são resultados de cargas excêntricas ou de cargas que geram deslocamentos laterais.
-		- **Momento Fletor** no plano horizontal das ligações entre a Fundação e a Estrutura  (X-0-Y).
+		- **Momento Fletor** no plano vinculado com as ligações entre a Fundação e a Estrutura  (X-0-Y).
 		- **Momento Torsor**, ao redor de eixo vertical ou inclinado dos elementos que ligam a Fundação e a Estrutura (0-Z ou 0-Z inclinado).
 		- **Momento de Tombamento**
 			- Quantificação do Estado Limite Último (ruptura).
@@ -74,5 +75,4 @@
 	- Planta com indicação do **local das cargas da estrutura**, nos locais da ligação com a fundação.
 	- Planta com indicação do **local dos momentos das cargas da estrutura**, nos locais da ligação com a fundação.
 	- **Diagrama de Momentos e de Forças**, ao longo dos elementos estuturais que agem nos locais da ligação com a fundação.
-- Relato sobre **restrições ou particularidades para a fundação** a ser projetada, como a rigidez da fundação ou o tipo de solo. 
-
+- Relato sobre **restrições ou particularidades para a fundação** a ser projetada, como a rigidez necessária para a fundação ou o tipo de solo mais apropriado. 
